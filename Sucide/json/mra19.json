@@ -1,0 +1,2368 @@
+{
+    "items": [
+        {
+            "name": "Aller au cinéma, au théâtre, au musée, à un concert", 
+            "val": 2, 
+            "_rev": "1-46b79268ea7c48e8b21070aacb02f3e8", 
+            "suggitem": true, 
+            "_id": "0a230f73-c1d2-4799-913c-7e57b8f0978f", 
+            "type": "activ"
+        }, 
+        {
+            "img": "assets/img/imgsugg/image-29.jpg", 
+            "val": 29, 
+            "_rev": "1-75e0a461bf784edf90655ac95d84ea00", 
+            "suggitem": true, 
+            "_id": "14c484ea-b8ef-4399-b67c-96d24123e09e", 
+            "type": "listphotos"
+        }, 
+        {
+            "name": "Écouter de la musique, la radio", 
+            "val": 5, 
+            "_rev": "1-1b62f4ce910a42be9b29ba9730715ae1", 
+            "suggitem": true, 
+            "_id": "1fa1533b-0197-48be-a712-c9b96983fb74", 
+            "type": "activ"
+        }, 
+        {
+            "tel": "06 70 72 21 36", 
+            "name": "Mam's🌺", 
+            "img": "", 
+            "_rev": "1-eeead2bfe6eb4654b6f95247a14698ca", 
+            "_id": "3de83d51-8b00-4624-8d3c-4726ba7ef813", 
+            "type": "persUrg"
+        }, 
+        {
+            "img": "assets/img/imgsugg/image-13.jpg", 
+            "val": 13, 
+            "_rev": "1-160010bf9bc243b990b65a45eefb42a3", 
+            "suggitem": true, 
+            "_id": "5080ee17-42d1-49fb-86f1-2344e8966af2", 
+            "type": "listphotos"
+        }, 
+        {
+            "name": "Chanter", 
+            "val": 6, 
+            "_rev": "1-98d5883358864fb0a15672870c3b6f54", 
+            "suggitem": true, 
+            "_id": "51a92c0f-0d39-4660-b1c8-9b4c7648beba", 
+            "type": "activ"
+        }, 
+        {
+            "img": "assets/img/imgsugg/image-1.jpg", 
+            "val": 1, 
+            "_rev": "1-d0c91023e4cb4c34be520f23b0cf1c7c", 
+            "suggitem": true, 
+            "_id": "79603e70-5cc3-4930-bdfd-dc510c68cd46", 
+            "type": "listphotos"
+        }, 
+        {
+            "name": "Faire un cadeau à quelqu'un", 
+            "val": 12, 
+            "_rev": "1-496b7beed6464cb186706c730008eca1", 
+            "suggitem": true, 
+            "_id": "9871d4ad-db82-4ef1-b23d-03dee8b9167f", 
+            "type": "activ"
+        }, 
+        {
+            "img": "assets/img/imgsugg/image-26.jpg", 
+            "val": 26, 
+            "_rev": "1-0d6fbef521a8474f8c36ca1d9aaa193f", 
+            "suggitem": true, 
+            "_id": "9ef3f20a-ef80-4508-9297-9e320541d5af", 
+            "type": "listphotos"
+        }, 
+        {
+            "img": "assets/img/imgsugg/image-30.jpg", 
+            "val": 30, 
+            "_rev": "1-9c2c010e6c074903a58e10b3c840396b", 
+            "suggitem": true, 
+            "_id": "aa2ed23a-77df-48eb-89fc-d808171361d2", 
+            "type": "listphotos"
+        }, 
+        {
+            "img": "assets/img/imgsugg/image-25.jpg", 
+            "val": 25, 
+            "_rev": "1-c4e9e40276594200a20a8ac126a5a386", 
+            "suggitem": true, 
+            "_id": "ae9a8ff1-8b80-4efe-adfc-a3dc98f4e48b", 
+            "type": "listphotos"
+        }, 
+        {
+            "name": "Regarder un film/série TV/vidéos", 
+            "val": 3, 
+            "_rev": "1-fc8966e133cc413ab7e9b9cf263acbe9", 
+            "suggitem": true, 
+            "_id": "c15fe4be-2ece-4178-ae7e-c4180b2949be", 
+            "type": "activ"
+        }, 
+        {
+            "type": "notifTime", 
+            "_rev": "2-1312e6973bd44f3bbce3872b61fe74f0", 
+            "_id": "d7a56222-3ec1-4377-978d-8064fc67b622", 
+            "notifstart": "2018-09-28T16:51:52.312Z", 
+            "notifend": "2018-09-29T02:51:52.312Z"
+        }, 
+        {
+            "tel": "06 77 76 35 11", 
+            "name": "Pap's☀️", 
+            "img": "/var/mobile/Containers/Data/Application/FA4C3509-F88E-4595-9C9E-9DEEEC89B349/tmp/contact_photo_98", 
+            "_rev": "1-fe02ecf2a9654ae4a5b63c1156812132", 
+            "_id": "e204fff6-f88d-4716-8f9d-e3e151846b0f", 
+            "type": "persUrg"
+        }, 
+        {
+            "img": "assets/img/imgsugg/image-14.jpg", 
+            "val": 14, 
+            "_rev": "1-76a0077788a24586bc45b9fd50ab14e4", 
+            "suggitem": true, 
+            "_id": "e89c45d7-29b0-49ce-95cf-444c917a0962", 
+            "type": "listphotos"
+        }, 
+        {
+            "name": "Prendre un bain", 
+            "val": 1, 
+            "_rev": "1-2b98aafd5c5c4bd189d776db04d1aba1", 
+            "suggitem": true, 
+            "_id": "f6b278e9-37e1-44c4-81c5-2f57a89c481c", 
+            "type": "activ"
+        }
+    ], 
+    "logs": [
+        {
+            "IDuser": "mra19", 
+            "action": "login", 
+            "data": "2018-10-03T11:46:10.905Z"
+        }, 
+        {
+            "IDuser": "mra19", 
+            "action": "AppelUrgence", 
+            "data": "2018-10-03T11:49:04.445Z"
+        }
+    ], 
+    "quests": [
+        {
+            "status": "answered", 
+            "img": "assets/img/iconsnew/ques/hebdo.png", 
+            "_rev": "2-04365dc83d7b49ea94b8f17d79eb520e", 
+            "datedue": "2018-09-28T22:00:00.018Z", 
+            "prog": 100, 
+            "denom": "Hebdomadaire", 
+            "datefinished": "Wed Oct 03 2018 13:48:12 GMT+0200 (CEST)", 
+            "_id": "70196863-85e9-4c2b-8207-9a4370655fca", 
+            "type": "Hebdomadaire", 
+            "freq": "none", 
+            "dataquestionnaire": [
+                {
+                    "code": "q1_douleur_psy", 
+                    "subtitle": "Quel est votre niveau de douleur psychologique <strong>maintenant</strong> ?", 
+                    "title": "", 
+                    "required": true, 
+                    "value": 0, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Wed Oct 03 2018 13:46:22 GMT+0200 (CEST)", 
+                    "options": {
+                        "min": 0, 
+                        "max": 10, 
+                        "sousquest": [
+                            {
+                                "code": "q2_intens_idees_suicid", 
+                                "subtitle": "Quelle est l'intensité de vos idées de suicide <strong>maintenant</strong> ?", 
+                                "title": "", 
+                                "required": true, 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "q3_intensite_tuer", 
+                                "subtitle": "Quelle est l'intensité de votre intention de vous tuer ?", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "maxLabel": "Extrême", 
+                        "minLabel": "Nul", 
+                        "if": "5"
+                    }
+                }, 
+                {
+                    "code": "douleur_morale_moyen", 
+                    "subtitle": "Quel a été votre niveau de douleur psychologique <strong>moyen</strong> cette semaine ?", 
+                    "title": "", 
+                    "value": 0, 
+                    "answered": "ignored", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "min": 0, 
+                        "max": 10, 
+                        "sousquest": [
+                            {
+                                "code": "idees_suicidaires_moyen", 
+                                "subtitle": "Quel a été votre niveau de douleur psychologique <strong>moyen</strong> cette semaine ?", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "intens_moy_tuer", 
+                                "subtitle": "Quelle a été l'intensité de votre intention de vous tuer cette semaine ?", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "Extrême", 
+                                    "minLabel": "Nul", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "maxLabel": "Extrême", 
+                        "minLabel": "Nul", 
+                        "if": "5"
+                    }
+                }, 
+                {
+                    "code": "douleurs_max", 
+                    "subtitle": "Quel a été votre niveau de douleur psychologique <strong>maximum</strong> cette semaine ?", 
+                    "title": "", 
+                    "value": 0, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Wed Oct 03 2018 13:46:27 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "", 
+                        "minLabel": "", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "q8_agitation_tension_hebdo", 
+                    "subtitle": "Quel est votre niveau d'agitation ou de tension émotionnelle <strong>maintenant</strong> ?", 
+                    "title": "", 
+                    "required": true, 
+                    "value": 1, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Wed Oct 03 2018 13:46:35 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Extrême", 
+                        "minLabel": "Nul", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "agitation_tension_emotionnelle_maximum", 
+                    "subtitle": "Quel a été votre niveau d'agitation ou de tension émotionnelle <strong>maximum</strong> cette semaine ?", 
+                    "title": "", 
+                    "value": 2, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Wed Oct 03 2018 13:46:39 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Extrême", 
+                        "minLabel": "Nul", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "bonne_semaine", 
+                    "subtitle": "Avez-vous passé une bonne semaine ?", 
+                    "title": "", 
+                    "value": 7, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Wed Oct 03 2018 13:46:43 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Très bonne", 
+                        "minLabel": "Très mauvaise", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "hospitalisation", 
+                    "subtitle": "Avez-vous été hospitalisé(e) ?", 
+                    "title": "", 
+                    "answered": "ignored", 
+                    "answerType": "Checkbox", 
+                    "questionOptions": [
+                        {
+                            "text": "pour des problèmes psychiatriques", 
+                            "checked": "false", 
+                            "value": "psychiatrique"
+                        }, 
+                        {
+                            "text": "pour des problèmes physiques", 
+                            "checked": "false", 
+                            "value": "physique"
+                        }
+                    ], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "hospitalisation_pourquoi", 
+                                "subtitle": "Pourquoi ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "check"
+                    }
+                }, 
+                {
+                    "code": "urgences_psychiatriques", 
+                    "subtitle": "Êtes-vous passé(e) aux urgences psychiatriques ?", 
+                    "title": "", 
+                    "answered": "ignored", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "urgences_psychiatriques_pourquoi", 
+                                "subtitle": "Pourquoi ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "evenement_negatif", 
+                    "subtitle": "Avez-vous vécu un événement particulièrement négatif qui vous a contrarié(e) ou peiné(e) cette semaine ?", 
+                    "title": "", 
+                    "answered": "ignored", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "evenement_negatif_details", 
+                                "subtitle": "Décrivez-le:", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "comportements_suicidaires", 
+                    "subtitle": "Avez-vous eu des comportements suicidaires cette semaine ?", 
+                    "title": "", 
+                    "answered": "ignored", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "comportements_suicidaires_details", 
+                                "subtitle": "Pouvez-vous les décrire ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }, 
+                            {
+                                "code": "comportements_suicidaires_facteurs_declenchants", 
+                                "subtitle": "Avez-vous identifié des facteurs déclenchants ?", 
+                                "title": "", 
+                                "answered": "false", 
+                                "answerType": "YesNo", 
+                                "questionOptions": [], 
+                                "checked": false, 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "sousquest": [
+                                        {
+                                            "code": "comportements_suicidaires_facteurs_declenchants_details", 
+                                            "subtitle": "Pouvez-vous les décrire ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }
+                                    ], 
+                                    "if": "true"
+                                }
+                            }, 
+                            {
+                                "code": "comportements_suicidaires_aide", 
+                                "subtitle": "Avez vous identifié ce qui vous a aidé à les surmonter ?", 
+                                "title": "", 
+                                "answered": "false", 
+                                "answerType": "YesNo", 
+                                "questionOptions": [], 
+                                "checked": false, 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "sousquest": [
+                                        {
+                                            "code": "comportements_suicidaires_aide_details", 
+                                            "subtitle": "Pouvez-vous les décrire ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }
+                                    ], 
+                                    "if": "true"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "bien_etre", 
+                    "subtitle": "Quel a été votre niveau de bien-être cette semaine ?", 
+                    "title": "", 
+                    "value": 9, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Wed Oct 03 2018 13:47:02 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Extrême", 
+                        "minLabel": "Nul", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "heures_personnes_importantes", 
+                    "subtitle": "Combien de temps (en heures) avez-vous passé avec les personnes importantes pour vous sur la semaine écoulée ?", 
+                    "title": "", 
+                    "value": "", 
+                    "answered": "ignored", 
+                    "answerType": "Input", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "max": 100, 
+                        "type": "number", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "satisfaction_relations_familiales_sans_contact", 
+                    "subtitle": "J'ai des contacts avec ma famille actuellement", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Wed Oct 03 2018 13:47:19 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "satisfaction_relations_familiales", 
+                                "subtitle": "Cette semaine, êtes-vous satisfait(e) de vos relations familiales ?", 
+                                "title": "", 
+                                "value": 6, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "Totalement", 
+                                    "minLabel": "Pas du tout", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "satisfaction_relations_sans_couple", 
+                    "subtitle": "Je suis en couple actuellement", 
+                    "title": "", 
+                    "answered": "ignored", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "satisfaction_relations_couple", 
+                                "subtitle": "Cette semaine, êtes-vous satisfait(e) de vos relations de couple ?", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "Totalement", 
+                                    "minLabel": "Pas du tout", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "satisfaction_relations_amicales_sans_contact", 
+                    "subtitle": "J'ai des contacts avec mes amis actuellement", 
+                    "title": "", 
+                    "answered": "ignored", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "satisfaction_relations_amicales", 
+                                "subtitle": "Cette semaine, êtes-vous satisfait(e) de vos relations amicales ?", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "Totalement", 
+                                    "minLabel": "Pas du tout", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "satisfaction_relations_professionnelles_sans_contact", 
+                    "subtitle": "J'ai des relations professionnelles actuellement", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Wed Oct 03 2018 13:47:28 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "satisfaction_relations_professionnelles", 
+                                "subtitle": "Cette semaine, êtes-vous satisfait(e) de vos relations professionnelles ?", 
+                                "title": "", 
+                                "value": 8, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "Totalement", 
+                                    "minLabel": "Pas du tout", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "conflits", 
+                    "subtitle": "Avez-vous vécu des conflits relationnels cette semaine ?", 
+                    "title": "", 
+                    "answered": "ignored", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "conflits_contact", 
+                                "subtitle": "Sélectionnez la personne impliquée si elle figure parmi les personnes importantes pour vous", 
+                                "title": "", 
+                                "value": "contact", 
+                                "answered": "false", 
+                                "answerType": "Contact", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }, 
+                            {
+                                "code": "conflits_reaction", 
+                                "subtitle": "Comment avez-vous réagi ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }, 
+                            {
+                                "code": "conflits_type", 
+                                "subtitle": "Ou indiquez si ce(s) conflit(s) étai(en)t", 
+                                "title": "", 
+                                "answered": "false", 
+                                "answerType": "Checkbox", 
+                                "questionOptions": [
+                                    {
+                                        "text": "familial", 
+                                        "checked": "false", 
+                                        "value": "familiaux"
+                                    }, 
+                                    {
+                                        "text": "amical", 
+                                        "checked": "false", 
+                                        "value": "amicaux"
+                                    }, 
+                                    {
+                                        "text": "professionnel", 
+                                        "checked": "false", 
+                                        "value": "professionnels"
+                                    }, 
+                                    {
+                                        "text": "autre", 
+                                        "checked": "false", 
+                                        "value": "autre"
+                                    }
+                                ], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "qualite_de_vie", 
+                    "subtitle": "Cette semaine, est-ce que votre qualité de vie vous paraît :", 
+                    "title": "", 
+                    "value": 9, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Wed Oct 03 2018 13:47:37 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Très bien", 
+                        "minLabel": "Pas bien du tout", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "heures_loisirs", 
+                    "subtitle": "Cette semaine, combien de temps (en heures) avez-vous passé à vos loisirs ?", 
+                    "title": "", 
+                    "value": "0", 
+                    "answered": "true", 
+                    "answerType": "Input", 
+                    "questionOptions": [], 
+                    "datefinished": "Wed Oct 03 2018 13:47:42 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 168, 
+                        "type": "number", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "plaisir_activites", 
+                    "subtitle": "Avez-vous pris du plaisir dans vos activités cette semaine ?", 
+                    "title": "", 
+                    "value": 0, 
+                    "answered": "ignored", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Beaucoup", 
+                        "minLabel": "Pas du tout", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "sens", 
+                    "subtitle": "Qu'est-ce qui a eu du sens pour vous cette semaine ?", 
+                    "title": "", 
+                    "value": "Oui", 
+                    "answered": "true", 
+                    "answerType": "Text", 
+                    "questionOptions": [], 
+                    "datefinished": "Wed Oct 03 2018 13:47:48 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "bon_moments", 
+                    "subtitle": "Quels ont étés les bons moments que vous avez passés cette semaine ?", 
+                    "title": "", 
+                    "graph": true, 
+                    "value": "Finir les papiers ", 
+                    "answered": "true", 
+                    "answerType": "Text", 
+                    "questionOptions": [], 
+                    "datefinished": "Wed Oct 03 2018 13:47:57 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "semaine_prochaine", 
+                    "subtitle": "Quel domaine de votre vie allez-vous particulièrement investir la semaine à venir ?", 
+                    "title": "", 
+                    "value": "Trouver assistante sociale", 
+                    "answered": "true", 
+                    "answerType": "Text", 
+                    "questionOptions": [], 
+                    "datefinished": "Wed Oct 03 2018 13:48:08 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "modif_pers_imp", 
+                    "subtitle": "Souhaitez-vous apporter des modifications aux données concernant les personnes importantes et/ou qui prennent de la place ?", 
+                    "title": "", 
+                    "answered": "ignored", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {}
+                }
+            ]
+        }, 
+        {
+            "status": "answered", 
+            "img": "assets/img/iconsnew/ques/socio.png", 
+            "_rev": "1-cd3e803468cc407295962bc65496bfb0", 
+            "datedue": "Fri Sep 28 2018 16:50:33 GMT+0200 (CEST)", 
+            "denom": "Socio-démographique", 
+            "freq": "none", 
+            "_id": "784cf831-6744-4e75-a442-db2802775812", 
+            "type": "Socio-démographique", 
+            "datefinished": "Fri Sep 28 2018 16:51:50 GMT+0200 (CEST)", 
+            "dataquestionnaire": [
+                {
+                    "code": "age", 
+                    "subtitle": "Quel âge avez-vous ?", 
+                    "title": "", 
+                    "value": "19", 
+                    "answered": "true", 
+                    "answerType": "Input", 
+                    "questionOptions": [], 
+                    "datefinished": "Fri Sep 28 2018 16:50:44 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 100, 
+                        "type": "number", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "orientation_sexuelle", 
+                    "subtitle": "Quelle est votre orientation sexuelle ?", 
+                    "title": "", 
+                    "selItem": "", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "hétérosexuel(le)", 
+                            "checked": "false", 
+                            "value": "heterosexuel"
+                        }, 
+                        {
+                            "text": "homosexuel(le)", 
+                            "checked": "false", 
+                            "value": "homosexuel"
+                        }, 
+                        {
+                            "text": "bi-sexuel(le)", 
+                            "checked": "false", 
+                            "value": "bi-sexuel"
+                        }, 
+                        {
+                            "text": "autre", 
+                            "checked": "false", 
+                            "value": "autre"
+                        }
+                    ], 
+                    "datefinished": "Fri Sep 28 2018 16:50:44 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "categorie_socioprofessionnelle", 
+                    "subtitle": "Quelle est votre catégorie socio-professionnelle ?", 
+                    "title": "", 
+                    "selItem": "employes", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "agriculteurs exploitants", 
+                            "checked": "false", 
+                            "value": "agriculteurs"
+                        }, 
+                        {
+                            "text": "artisans, commerçants et chefs d'entreprise", 
+                            "checked": "false", 
+                            "value": "artisans_commercants_chefs_entreprise"
+                        }, 
+                        {
+                            "text": "cadres et professions intellectuelles supérieures", 
+                            "checked": "false", 
+                            "value": "cadres"
+                        }, 
+                        {
+                            "text": "professions intermédiaires", 
+                            "checked": "false", 
+                            "value": "intermediaires"
+                        }, 
+                        {
+                            "text": "employés", 
+                            "checked": "false", 
+                            "value": "employes"
+                        }, 
+                        {
+                            "text": "ouvriers", 
+                            "checked": "false", 
+                            "value": "ouvriers"
+                        }, 
+                        {
+                            "text": "étudiants", 
+                            "checked": "false", 
+                            "value": "étudiants"
+                        }, 
+                        {
+                            "text": "retraités", 
+                            "checked": "false", 
+                            "value": "retraites"
+                        }, 
+                        {
+                            "text": "sans activité professionnelle", 
+                            "checked": "false", 
+                            "value": "sans_activite"
+                        }, 
+                        {
+                            "text": "autres", 
+                            "checked": "false", 
+                            "value": "autres"
+                        }
+                    ], 
+                    "datefinished": "Fri Sep 28 2018 16:50:54 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "revenus", 
+                    "subtitle": "Quel est votre niveau de revenu mensuel ?", 
+                    "title": "", 
+                    "selItem": " 500-1000euros", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "<500 euros", 
+                            "checked": "false", 
+                            "value": "inf500euros"
+                        }, 
+                        {
+                            "text": " 500-1000 euros", 
+                            "checked": "false", 
+                            "value": " 500-1000euros"
+                        }, 
+                        {
+                            "text": "1000-1500 euros", 
+                            "checked": "false", 
+                            "value": "1000-1500euros"
+                        }, 
+                        {
+                            "text": " 1500-2000 euros", 
+                            "checked": "false", 
+                            "value": " 1500-2000euros"
+                        }, 
+                        {
+                            "text": "2000-2500 euros", 
+                            "checked": "false", 
+                            "value": "2000-2500euros"
+                        }, 
+                        {
+                            "text": ">2500 euros", 
+                            "checked": "false", 
+                            "value": "sup2500euros"
+                        }, 
+                        {
+                            "text": "NSP", 
+                            "checked": "false", 
+                            "value": "NSP"
+                        }
+                    ], 
+                    "datefinished": "Fri Sep 28 2018 16:51:00 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "prestations_sociales", 
+                    "subtitle": "Recevez-vous des prestations sociales ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Fri Sep 28 2018 16:51:07 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "prestations_sociales_precisions", 
+                                "subtitle": "Laquelle/Lesquelles ?", 
+                                "title": "", 
+                                "value": "Caf", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "type": "text"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "foyer", 
+                    "subtitle": "Vivez-vous :", 
+                    "title": "", 
+                    "selItem": "seul", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "seul(e)", 
+                            "checked": "false", 
+                            "value": "seul"
+                        }, 
+                        {
+                            "text": "en couple", 
+                            "checked": "false", 
+                            "value": "couple"
+                        }, 
+                        {
+                            "text": "en famille", 
+                            "checked": "false", 
+                            "value": "famille"
+                        }, 
+                        {
+                            "text": "en collocation", 
+                            "checked": "false", 
+                            "value": "collocation"
+                        }, 
+                        {
+                            "text": "autre", 
+                            "checked": "false", 
+                            "value": "autre"
+                        }
+                    ], 
+                    "datefinished": "Fri Sep 28 2018 16:51:13 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "enfants", 
+                    "subtitle": "Avez-vous des enfants ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Fri Sep 28 2018 16:51:15 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "enfants_combien", 
+                                "subtitle": "Combien ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 100, 
+                                    "type": "number", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "enfants_avec_parent", 
+                                "subtitle": "Est-ce que vos enfant(s) vit/vivent avec vous ?", 
+                                "title": "", 
+                                "selItem": "", 
+                                "answered": "false", 
+                                "answerType": "Radio", 
+                                "questionOptions": [
+                                    {
+                                        "text": "tout le temps", 
+                                        "checked": "false", 
+                                        "value": "tout"
+                                    }, 
+                                    {
+                                        "text": "partiellement (garde partagée)", 
+                                        "checked": "false", 
+                                        "value": "part"
+                                    }, 
+                                    {
+                                        "text": "jamais", 
+                                        "checked": "false", 
+                                        "value": "jam"
+                                    }
+                                ], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "beaux_enfants", 
+                    "subtitle": "Avez-vous des beaux-enfants ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Fri Sep 28 2018 16:51:16 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "beaux_enfants_combien", 
+                                "subtitle": "Combien ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 100, 
+                                    "type": "number", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "beaux_enfants_avec_parent", 
+                                "subtitle": "Est-ce que le/les enfant(s) de votre conjoint(e) vit/vivent avec vous ?", 
+                                "title": "", 
+                                "selItem": "", 
+                                "answered": "false", 
+                                "answerType": "Radio", 
+                                "questionOptions": [
+                                    {
+                                        "text": "tout le temps", 
+                                        "checked": "false", 
+                                        "value": "tout"
+                                    }, 
+                                    {
+                                        "text": "partiellement (garde partagée)", 
+                                        "checked": "false", 
+                                        "value": "part"
+                                    }, 
+                                    {
+                                        "text": "jamais", 
+                                        "checked": "false", 
+                                        "value": "jam"
+                                    }
+                                ], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "maladie_psychiatrique_passe", 
+                    "subtitle": "Avez-vous eu par le passé une maladie psychiatrique ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Fri Sep 28 2018 16:51:20 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "maladie_psychiatrique_passe_precisions", 
+                                "subtitle": "Laquelle / Lesquelles ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "type": "text"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "maladie_psychiatrique_famille", 
+                    "subtitle": "Est-ce que des membres de votre famille ont ou ont eu des maladies psychiatriques ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Fri Sep 28 2018 16:51:22 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "maladie_psychiatrique_famille_precisions", 
+                                "subtitle": "Quel(s) membre(s) de votre famille a/ont eu quelle(s) maladie(s) ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "tentatives_suicide", 
+                    "subtitle": "Avez-vous déjà fait une/des tentative(s) de suicide ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Fri Sep 28 2018 16:51:34 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "tentatives_suicide_precisions", 
+                                "subtitle": "Combien ?", 
+                                "title": "", 
+                                "value": "20", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 100, 
+                                    "type": "number", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "tentatives_suicide_famille", 
+                    "subtitle": "Est-ce que des membres de votre famille ont fait une/ des tentative(s) de suicide ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Fri Sep 28 2018 16:51:46 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "tentatives_suicide_famille_precisions", 
+                                "subtitle": "Qui ?", 
+                                "title": "", 
+                                "value": "Pere", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "type": "text"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "agitation_tension_emotionnelle", 
+                    "subtitle": "À partir de quel niveau de tension émotionnelle vous sentez-vous en détresse ?", 
+                    "title": "", 
+                    "required": true, 
+                    "value": 10, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Fri Sep 28 2018 16:51:50 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "", 
+                        "minLabel": "", 
+                        "min": 0
+                    }
+                }
+            ]
+        }, 
+        {
+            "status": "answered", 
+            "img": "assets/img/iconsnew/ques/emma.png", 
+            "_rev": "2-e9c63c9ad161442eb6601975068f6223", 
+            "datedue": "Wed Oct 03 2018 13:49:12 GMT+0200 (CEST)", 
+            "prog": 264, 
+            "denom": "Spontané", 
+            "freq": "third", 
+            "_id": "a8511d5b-7812-4ba9-90e1-af5937277003", 
+            "type": "EMMA", 
+            "datefinished": "Wed Oct 03 2018 13:49:40 GMT+0200 (CEST)", 
+            "dataquestionnaire": [
+                {
+                    "code": "matin_bien_dormi", 
+                    "subtitle": "Avez-vous bien dormi ?", 
+                    "title": "", 
+                    "graph": true, 
+                    "required": true, 
+                    "value": 0, 
+                    "answered": "notfreq", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "min": 0, 
+                        "max": 10, 
+                        "sousquest": [
+                            {
+                                "code": "matin_mal_dormi_cause", 
+                                "subtitle": "À cause de quoi ?", 
+                                "title": "", 
+                                "selItem": "", 
+                                "answered": "false", 
+                                "answerType": "Radio", 
+                                "questionOptions": [
+                                    {
+                                        "text": "j'ai fait des cauchemars", 
+                                        "checked": "false", 
+                                        "value": "cauchemars"
+                                    }, 
+                                    {
+                                        "text": "je me faisais du souci", 
+                                        "checked": "false", 
+                                        "value": "souci"
+                                    }, 
+                                    {
+                                        "text": "je n'avais pas sommeil", 
+                                        "checked": "false", 
+                                        "value": "pas_sommeil"
+                                    }, 
+                                    {
+                                        "text": "j'avais des douleurs physiques", 
+                                        "checked": "false", 
+                                        "value": "douleurs"
+                                    }, 
+                                    {
+                                        "text": "autre", 
+                                        "checked": "false", 
+                                        "value": "autre"
+                                    }
+                                ], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "cond": "first"
+                                }
+                            }
+                        ], 
+                        "cond": "first", 
+                        "minLabel": "Très mal", 
+                        "maxLabel": "Très bien", 
+                        "if": "4"
+                    }
+                }, 
+                {
+                    "code": "q5_emma_douleur_morale", 
+                    "subtitle": "Quel est votre niveau de douleur psychologique <strong>maintenant</strong> ?", 
+                    "title": "", 
+                    "required": true, 
+                    "value": 0, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Wed Oct 03 2018 13:49:29 GMT+0200 (CEST)", 
+                    "options": {
+                        "min": 0, 
+                        "max": 10, 
+                        "sousquest": [
+                            {
+                                "code": "douleurs_psy_tolerance", 
+                                "subtitle": "À quel point avez-vous trouvé cette douleur tolérable ?", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "Tout à fait tolérable", 
+                                    "minLabel": "Pas du tout tolérable", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "intensite_idee_suicide", 
+                                "subtitle": "Quelle est l'intensité de vos idées de suicide <strong>maintenant</strong> ?", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "intensite_intention_suicide", 
+                                "subtitle": "Quelle est l'intensité de votre intention de vous tuer ?", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "maxLabel": "Extrême", 
+                        "minLabel": "Nul", 
+                        "if": "5"
+                    }
+                }, 
+                {
+                    "code": "q8_emma_agitation", 
+                    "subtitle": "Quel est votre niveau d'agitation ou de tension émotionnelle ?", 
+                    "title": "", 
+                    "required": true, 
+                    "value": 0, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Wed Oct 03 2018 13:49:31 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Extrême", 
+                        "minLabel": "Nul", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "bien_etre", 
+                    "subtitle": "Quel est votre niveau de bien-être <strong>maintenant</strong> ?", 
+                    "title": "", 
+                    "value": 0, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Wed Oct 03 2018 13:49:33 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Extrême", 
+                        "minLabel": "Nul", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "q10_emma_faire", 
+                    "subtitle": "J'étais en train de :", 
+                    "title": "Qu'étiez-vous en train de faire ?", 
+                    "answered": "ignored", 
+                    "answerType": "Checkbox", 
+                    "questionOptions": [
+                        {
+                            "text": "m'occuper pour ne pas penser", 
+                            "checked": "false", 
+                            "value": "m_occuper"
+                        }, 
+                        {
+                            "text": "ne rien faire", 
+                            "checked": "false", 
+                            "value": "rien_faire"
+                        }, 
+                        {
+                            "text": "ruminer, essayer de penser à autre chose", 
+                            "checked": "false", 
+                            "value": "ruminer"
+                        }, 
+                        {
+                            "text": "faire une activité qui me plaît ou qui a du sens pour moi", 
+                            "checked": "false", 
+                            "value": "activite"
+                        }, 
+                        {
+                            "text": "travailler", 
+                            "checked": "false", 
+                            "value": "travailler"
+                        }, 
+                        {
+                            "text": "faire des tâches ménagères", 
+                            "checked": "false", 
+                            "value": "taches_menageres"
+                        }, 
+                        {
+                            "text": "autre", 
+                            "checked": "false", 
+                            "value": "autre"
+                        }
+                    ], 
+                    "datefinished": "nan", 
+                    "options": {}
+                }, 
+                {
+                    "code": "lieu", 
+                    "subtitle": "", 
+                    "title": "Où êtes-vous en ce moment ?", 
+                    "selItem": "", 
+                    "answered": "ignored", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "chez moi", 
+                            "checked": "false", 
+                            "value": "chez_moi"
+                        }, 
+                        {
+                            "text": "chez mon/ma partenaire", 
+                            "checked": "false", 
+                            "value": "chez_partenaire"
+                        }, 
+                        {
+                            "text": "chez mes parents ou ma famille", 
+                            "checked": "false", 
+                            "value": "famille"
+                        }, 
+                        {
+                            "text": "chez mes amis", 
+                            "checked": "false", 
+                            "value": "amis"
+                        }, 
+                        {
+                            "text": "à mon travail", 
+                            "checked": "false", 
+                            "value": "travail"
+                        }, 
+                        {
+                            "text": "en classe", 
+                            "checked": "false", 
+                            "value": "classe"
+                        }, 
+                        {
+                            "text": "en déplacement (transports en communs...)", 
+                            "checked": "false", 
+                            "value": "deplacement"
+                        }, 
+                        {
+                            "text": "à l'intérieur (maison...)", 
+                            "checked": "false", 
+                            "value": "interieur"
+                        }, 
+                        {
+                            "text": "à l'extérieur (jardin...)", 
+                            "checked": "false", 
+                            "value": "exterieur"
+                        }, 
+                        {
+                            "text": "autre", 
+                            "checked": "false", 
+                            "value": "autre"
+                        }
+                    ], 
+                    "datefinished": "nan", 
+                    "options": {}
+                }, 
+                {
+                    "code": "entourage", 
+                    "subtitle": "", 
+                    "title": "Qui est avec vous <strong>maintenant</strong> ?", 
+                    "answered": "ignored", 
+                    "answerType": "Checkbox", 
+                    "questionOptions": [
+                        {
+                            "text": "personne, je suis seul(e)", 
+                            "checked": "false", 
+                            "value": "personne"
+                        }, 
+                        {
+                            "text": "famille", 
+                            "checked": "false", 
+                            "value": "famille"
+                        }, 
+                        {
+                            "text": "amis", 
+                            "checked": "false", 
+                            "value": "amis"
+                        }, 
+                        {
+                            "text": "partenaire/petit(e) ami(e)", 
+                            "checked": "false", 
+                            "value": "partenaire"
+                        }, 
+                        {
+                            "text": "collègue(s) de travail", 
+                            "checked": "false", 
+                            "value": "collegues"
+                        }, 
+                        {
+                            "text": "étudiants", 
+                            "checked": "false", 
+                            "value": "etudiants"
+                        }, 
+                        {
+                            "text": "des inconnus", 
+                            "checked": "false", 
+                            "value": "inconnus"
+                        }, 
+                        {
+                            "text": "un ou des animaux (chien, ...)", 
+                            "checked": "false", 
+                            "value": "animaux"
+                        }, 
+                        {
+                            "text": "autre", 
+                            "checked": "false", 
+                            "value": "autre"
+                        }
+                    ], 
+                    "datefinished": "nan", 
+                    "options": {}
+                }, 
+                {
+                    "code": "evenement", 
+                    "subtitle": "Quel a été l'événement ou l'expérience qui vous a le plus affecté(e) depuis ce matin ?", 
+                    "title": "", 
+                    "value": "", 
+                    "answered": "notfreq", 
+                    "answerType": "Text", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "cond": "first"
+                    }
+                }, 
+                {
+                    "code": "evenement", 
+                    "subtitle": "Quel a été l'événement ou l'expérience qui vous a le plus affecté(e)depuis la dernière fois que vous avez répondu au questionnaire ?", 
+                    "title": "", 
+                    "value": "", 
+                    "answered": "ignored", 
+                    "answerType": "Text", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "condnot": "first"
+                    }
+                }, 
+                {
+                    "code": "evenement_relationnel", 
+                    "subtitle": "Cet événement était-il relationnel ?", 
+                    "title": "", 
+                    "answered": "ignored", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "evenement_contact", 
+                                "subtitle": "Qui cela a t-il impliqué ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Contact", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }, 
+                            {
+                                "code": "evenement_heure", 
+                                "subtitle": "À quel moment cela s'est-il passé ? ", 
+                                "title": "", 
+                                "value": "00:00", 
+                                "answered": "false", 
+                                "answerType": "Time", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "q18_evenement_impact", 
+                    "subtitle": "", 
+                    "title": "Quel impact cet événement a-t-il eu sur vous ?", 
+                    "value": 0, 
+                    "answered": "ignored", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "min": -5, 
+                        "max": 5, 
+                        "sousquest": [
+                            {
+                                "code": "q19_evenement_impact_envie", 
+                                "subtitle": "Cela m'a donné envie de :", 
+                                "title": "", 
+                                "answered": "false", 
+                                "answerType": "Checkbox", 
+                                "questionOptions": [
+                                    {
+                                        "text": "faire quelque chose de plaisant pour moi", 
+                                        "checked": "false", 
+                                        "value": "plaisant"
+                                    }, 
+                                    {
+                                        "text": "me faire du mal", 
+                                        "checked": "false", 
+                                        "value": "me_faire_du_mal"
+                                    }, 
+                                    {
+                                        "text": "boire de l'alcool", 
+                                        "checked": "false", 
+                                        "value": "boire_de_lalcool"
+                                    }, 
+                                    {
+                                        "text": "prendre des toxiques", 
+                                        "checked": "false", 
+                                        "value": "prendre_des_toxiques"
+                                    }, 
+                                    {
+                                        "text": "fumer du cannabis", 
+                                        "checked": "false", 
+                                        "value": "fumer_du_cannabis"
+                                    }, 
+                                    {
+                                        "text": "prendre des calmants", 
+                                        "checked": "false", 
+                                        "value": "prendre_des_calmants"
+                                    }, 
+                                    {
+                                        "text": "me remplir de nourriture ", 
+                                        "checked": "false", 
+                                        "value": "me_remplir_de_nourriture "
+                                    }
+                                ], 
+                                "datefinished": "nan"
+                            }, 
+                            {
+                                "code": "q21_me_faire_mal_metuer", 
+                                "subtitle": "me tuer", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "besoins_imperieux_2", 
+                                "subtitle": "me couper/me scarifier", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "besoins_imperieux_3", 
+                                "subtitle": "me brûler", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "besoins_imperieux_4", 
+                                "subtitle": "me frapper", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "besoins_imperieux_5", 
+                                "subtitle": "autre", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "maxLabel": "extrêmement positif", 
+                        "minLabel": "extrêmement négatif", 
+                        "if": "0"
+                    }
+                }, 
+                {
+                    "code": "pensees_interpretation", 
+                    "subtitle": "", 
+                    "title": "Quelles sont vos interprétations de cet événement ? Que vous dites-vous sur cette situation ?", 
+                    "value": "", 
+                    "answered": "ignored", 
+                    "answerType": "Text", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {}
+                }, 
+                {
+                    "code": "jour_qualite_appetit", 
+                    "subtitle": "Comment est votre appétit aujourd'hui ?", 
+                    "title": "", 
+                    "value": 0, 
+                    "answered": "notfreq", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "max": 10, 
+                        "cond": "last", 
+                        "minLabel": "Très mauvaise", 
+                        "maxLabel": "Excellente", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "soir_douleurs_physiques", 
+                    "subtitle": "Avez-vous eu des douleurs physiques aujourd'hui ?", 
+                    "title": "", 
+                    "value": 0, 
+                    "answered": "notfreq", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "min": 0, 
+                        "max": 10, 
+                        "sousquest": [
+                            {
+                                "code": "soir_douleurs_physiques_tolerance", 
+                                "subtitle": "À quel point avez-vous trouvé cette douleur tolérable ?", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "Tout à fait tolérable", 
+                                    "minLabel": "Pas du tout tolérable", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "cond": "last", 
+                        "minLabel": "Pas du tout", 
+                        "maxLabel": "Beaucoup", 
+                        "if": "5"
+                    }
+                }, 
+                {
+                    "code": "ressentis_sentiments", 
+                    "subtitle": "Que ressentez-vous en vous en ce moment ?", 
+                    "title": "", 
+                    "answered": "notfreq", 
+                    "answerType": "Checkbox", 
+                    "questionOptions": [
+                        {
+                            "text": "je suis un fardeau pour les autres", 
+                            "checked": "false", 
+                            "value": "fardeau"
+                        }, 
+                        {
+                            "text": "je suis sans espoir", 
+                            "checked": "false", 
+                            "value": "sans_espoir"
+                        }, 
+                        {
+                            "text": "j'ai échoué", 
+                            "checked": "false", 
+                            "value": "echec"
+                        }, 
+                        {
+                            "text": "colère/irritabilité ", 
+                            "checked": "false", 
+                            "value": "col"
+                        }, 
+                        {
+                            "text": "tristesse", 
+                            "checked": "false", 
+                            "value": "trit"
+                        }, 
+                        {
+                            "text": "honte/humiliation", 
+                            "checked": "false", 
+                            "value": "honte"
+                        }, 
+                        {
+                            "text": "peur/Anxiété ", 
+                            "checked": "false", 
+                            "value": "peur"
+                        }, 
+                        {
+                            "text": "dégoût", 
+                            "checked": "false", 
+                            "value": "deg"
+                        }, 
+                        {
+                            "text": "joie/plaisir", 
+                            "checked": "false", 
+                            "value": "joie"
+                        }, 
+                        {
+                            "text": "culpabilité", 
+                            "checked": "false", 
+                            "value": "culp"
+                        }, 
+                        {
+                            "text": "intérêt/curiosité", 
+                            "checked": "false", 
+                            "value": "int"
+                        }, 
+                        {
+                            "text": "surprise", 
+                            "checked": "false", 
+                            "value": "echec"
+                        }, 
+                        {
+                            "text": "ennui/vide", 
+                            "checked": "false", 
+                            "value": "ennui"
+                        }, 
+                        {
+                            "text": "sérénité", 
+                            "checked": "false", 
+                            "value": "ser"
+                        }, 
+                        {
+                            "text": "espoir", 
+                            "checked": "false", 
+                            "value": "espoir"
+                        }, 
+                        {
+                            "text": "fierté", 
+                            "checked": "false", 
+                            "value": "fiert"
+                        }, 
+                        {
+                            "text": "amour", 
+                            "checked": "false", 
+                            "value": "amour"
+                        }
+                    ], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "cond": "last"
+                    }
+                }, 
+                {
+                    "code": "soir_activite_importante", 
+                    "subtitle": "Aujourd'hui, est-ce que avez fait quelque chose d'important pour vous ?", 
+                    "title": "", 
+                    "answered": "notfreq", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "cond": "last", 
+                        "sousquest": [
+                            {
+                                "code": "soir_activites", 
+                                "subtitle": "", 
+                                "title": "", 
+                                "answered": "false", 
+                                "answerType": "Checkbox", 
+                                "questionOptions": [
+                                    {
+                                        "text": "j'ai fait du sport", 
+                                        "checked": "false", 
+                                        "value": "sport"
+                                    }, 
+                                    {
+                                        "text": "j'ai vu ma famille / mes amis", 
+                                        "checked": "false", 
+                                        "value": "famille/amis"
+                                    }, 
+                                    {
+                                        "text": "je me suis promené(e)", 
+                                        "checked": "false", 
+                                        "value": "promenade"
+                                    }, 
+                                    {
+                                        "text": "j'ai lu", 
+                                        "checked": "false", 
+                                        "value": "lecture"
+                                    }, 
+                                    {
+                                        "text": "j'ai regardé un film", 
+                                        "checked": "false", 
+                                        "value": "film"
+                                    }, 
+                                    {
+                                        "text": "j'ai eu des relations sexuelles", 
+                                        "checked": "false", 
+                                        "value": "relations_sexuelles"
+                                    }, 
+                                    {
+                                        "text": "j'ai joué", 
+                                        "checked": "false", 
+                                        "value": "jeu"
+                                    }, 
+                                    {
+                                        "text": "autre", 
+                                        "checked": "false", 
+                                        "value": "autre"
+                                    }
+                                ], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "soir_faire_du_mal", 
+                    "subtitle": "Aujourd'hui, est-ce que vous vous êtes fait du mal ?", 
+                    "title": "", 
+                    "answered": "notfreq", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "cond": "last", 
+                        "sousquest": [
+                            {
+                                "code": "soir_faire_du_mal_comment", 
+                                "subtitle": "", 
+                                "title": "", 
+                                "answered": "false", 
+                                "answerType": "Checkbox", 
+                                "questionOptions": [
+                                    {
+                                        "text": "je me suis scarifié(e) ou brûlé(e)", 
+                                        "checked": "false", 
+                                        "value": "scarifie_brule"
+                                    }, 
+                                    {
+                                        "text": "j'ai essayé de me tuer", 
+                                        "checked": "false", 
+                                        "value": "tentative_tuer"
+                                    }, 
+                                    {
+                                        "text": "j'ai bu une grande quantité d'alcool", 
+                                        "checked": "false", 
+                                        "value": "alcool"
+                                    }, 
+                                    {
+                                        "text": "je me suis rempli(e) de nourriture", 
+                                        "checked": "false", 
+                                        "value": "nourriture"
+                                    }, 
+                                    {
+                                        "text": "j'ai pris des toxiques", 
+                                        "checked": "false", 
+                                        "value": "toxiques"
+                                    }, 
+                                    {
+                                        "text": "j'ai fumé du cannabis", 
+                                        "checked": "false", 
+                                        "value": "cannabis"
+                                    }, 
+                                    {
+                                        "text": "j'ai pris des calmants", 
+                                        "checked": "false", 
+                                        "value": "calmants"
+                                    }, 
+                                    {
+                                        "text": "autre", 
+                                        "checked": "false", 
+                                        "value": "autre"
+                                    }
+                                ], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "soir_conflits", 
+                    "subtitle": "Avez-vous vécu des conflits aujourd'hui ?", 
+                    "title": "", 
+                    "answered": "notfreq", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "cond": "last", 
+                        "sousquest": [
+                            {
+                                "code": "soir_conflits_type", 
+                                "subtitle": "", 
+                                "title": "", 
+                                "answered": "false", 
+                                "answerType": "Checkbox", 
+                                "questionOptions": [
+                                    {
+                                        "text": "familiaux", 
+                                        "checked": "false", 
+                                        "value": "familiaux"
+                                    }, 
+                                    {
+                                        "text": "amicaux", 
+                                        "checked": "false", 
+                                        "value": "amicaux"
+                                    }, 
+                                    {
+                                        "text": "professionnels", 
+                                        "checked": "false", 
+                                        "value": "professionnels"
+                                    }
+                                ], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "soir_conflits_reaction", 
+                    "subtitle": "Comment avez-vous réagi ?", 
+                    "title": "", 
+                    "value": "", 
+                    "answered": "notfreq", 
+                    "answerType": "Text", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "cond": "last"
+                    }
+                }, 
+                {
+                    "code": "soir_bien", 
+                    "subtitle": "Qu’est ce que vous avez fait de bien aujourd’hui ?", 
+                    "title": "", 
+                    "value": "", 
+                    "answered": "notfreq", 
+                    "answerType": "Text", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "cond": "last"
+                    }
+                }, 
+                {
+                    "code": "soir_ressenti", 
+                    "subtitle": "Comment vous sentez-vous ?", 
+                    "title": "", 
+                    "value": 0, 
+                    "answered": "notfreq", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "max": 10, 
+                        "cond": "last", 
+                        "minLabel": "Très mal", 
+                        "maxLabel": "Très bien", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "soir_faire_souhait", 
+                    "subtitle": "Avez-vous pu faire ce que vous souhaitiez aujourd’hui ?", 
+                    "title": "", 
+                    "answered": "notfreq", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "cond": "last", 
+                        "sousquest": [
+                            {
+                                "code": "soir_faire_souhait_pourquoi", 
+                                "subtitle": "Pourquoi selon vous ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "false"
+                    }
+                }, 
+                {
+                    "code": "soir_traitement", 
+                    "subtitle": "Si vous avez des traitements, les avez-vous bien pris aujourd'hui ?", 
+                    "title": "", 
+                    "graph": true, 
+                    "required": true, 
+                    "answered": "notfreq", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "cond": "last", 
+                        "sousquest": [
+                            {
+                                "code": "soir_traitement_benefique", 
+                                "subtitle": "Est-ce que vous avez l'impression que ça vous a été bénéfique ?", 
+                                "title": "", 
+                                "answered": "false", 
+                                "answerType": "YesNo", 
+                                "questionOptions": [], 
+                                "checked": false, 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "soir_bonne_journee", 
+                    "subtitle": "Avez-vous passé une bonne journée ?", 
+                    "title": "", 
+                    "graph": true, 
+                    "required": true, 
+                    "value": 0, 
+                    "answered": "notfreq", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "max": 10, 
+                        "cond": "last", 
+                        "minLabel": "Très mauvaise", 
+                        "maxLabel": "Excellente", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "autrui_connect", 
+                    "subtitle": "À combien vous êtes-vous senti connecté avec autrui aujourd'hui ?", 
+                    "title": "", 
+                    "value": 0, 
+                    "answered": "notfreq", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "max": 10, 
+                        "cond": "last", 
+                        "minLabel": "", 
+                        "maxLabel": "", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "soir_humeur", 
+                    "subtitle": "Évaluez votre humeur de la journée", 
+                    "title": "", 
+                    "graph": true, 
+                    "required": true, 
+                    "value": 0, 
+                    "answered": "notfreq", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "max": 10, 
+                        "cond": "last", 
+                        "minLabel": "Extrêment déprimée", 
+                        "maxLabel": "Normale", 
+                        "min": -10
+                    }
+                }, 
+                {
+                    "code": "soir_journee_vs_prevu", 
+                    "subtitle": "Votre journée s'est-elle déroulée mieux ou moins bien que prévu ?", 
+                    "title": "", 
+                    "value": 0, 
+                    "answered": "notfreq", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "max": 10, 
+                        "cond": "last", 
+                        "minLabel": "Moins bien", 
+                        "maxLabel": "Mieux", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "soir_choses_positives", 
+                    "subtitle": "Quelles ont été les choses positives aujourd'hui ?", 
+                    "title": "", 
+                    "value": "", 
+                    "answered": "notfreq", 
+                    "answerType": "Text", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "cond": "last"
+                    }
+                }, 
+                {
+                    "code": "soir_liste_mieux_que_prevu", 
+                    "subtitle": "Listez les choses que votre mental vous avait prédit qui se passeraient mal, et qui se sont finalement mieux passées que prévu.", 
+                    "title": "", 
+                    "value": "", 
+                    "answered": "notfreq", 
+                    "answerType": "Text", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "cond": "last"
+                    }
+                }
+            ]
+        }
+    ]
+}

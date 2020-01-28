@@ -1,0 +1,730 @@
+{
+    "items": [
+        {
+            "tel": "+33612406427", 
+            "name": "Manon", 
+            "img": "", 
+            "_rev": "1-bd585c8f84ad46799155c4029e81babe", 
+            "_id": "0a9ee61d-5406-4594-999a-8fdca36dc1fa", 
+            "type": "persImp"
+        }, 
+        {
+            "tel": "+33695300054", 
+            "name": "", 
+            "_rev": "1-75cf9808f91849f8bb7cad0216343956", 
+            "rel": {
+                "q1": 8, 
+                "q3": 9, 
+                "q2": 9, 
+                "q5": "Meilmeure amie", 
+                "q4": 10
+            }, 
+            "_id": "1f6e1db0-000c-4f17-8325-60ce839212eb", 
+            "type": "relation"
+        }, 
+        {
+            "tel": "+33626136937", 
+            "name": "Maman", 
+            "img": "", 
+            "_rev": "1-72addbf05bc7458f81512a15153f818f", 
+            "_id": "46515f06-4764-42cd-80ee-af5935869f6d", 
+            "type": "persImp"
+        }, 
+        {
+            "tel": "+33662796556", 
+            "name": "", 
+            "_rev": "1-97d53592a913407baa8bdbf021aa2405", 
+            "rel": {
+                "q1": 10, 
+                "q3": 10, 
+                "q2": 10, 
+                "q5": "Amie", 
+                "q4": 10
+            }, 
+            "_id": "490c6245-56b2-43e1-a524-61a281a2063a", 
+            "type": "relation"
+        }, 
+        {
+            "tel": "+33625586219", 
+            "name": "Alex", 
+            "img": "", 
+            "_rev": "1-9300cdbd825a4ccb9e33f8fc5f92388d", 
+            "_id": "491a446b-3161-4111-bc85-067b2c86a4ba", 
+            "type": "persImp"
+        }, 
+        {
+            "tel": "+33625586219", 
+            "name": "", 
+            "_rev": "1-2e4cf53d1eb145d9963214467d0893b3", 
+            "rel": {
+                "q1": 9, 
+                "q3": 10, 
+                "q2": 10, 
+                "q5": "Grand ami", 
+                "q4": 10
+            }, 
+            "_id": "501f831a-aee4-4827-b1db-4c722fa3ff20", 
+            "type": "relation"
+        }, 
+        {
+            "tel": "+33660534094", 
+            "name": "", 
+            "_rev": "1-8eb1b489103e470fa53b1449a8a17362", 
+            "rel": {
+                "q1": 10, 
+                "q3": 10, 
+                "q2": 10, 
+                "q5": "Cest une prof ", 
+                "q4": 10
+            }, 
+            "_id": "557845f9-8f4c-4fb9-a7f1-e1b100416ad8", 
+            "type": "relation"
+        }, 
+        {
+            "tel": "+33626136937", 
+            "name": "", 
+            "_rev": "1-780f2802502c4f21827b33c88d0055e5", 
+            "rel": {
+                "q1": 9, 
+                "q3": 9, 
+                "q2": 10, 
+                "q5": "Maman ", 
+                "q4": 10
+            }, 
+            "_id": "63b6b1ae-acc5-460a-8849-bae9887c0b63", 
+            "type": "relation"
+        }, 
+        {
+            "tel": "+33695300054", 
+            "name": "Khadi", 
+            "img": "", 
+            "_rev": "1-31616056c02c4a758e7303115a9ab2c2", 
+            "_id": "8289f4ba-de2c-457f-9dc2-0498bcd98580", 
+            "type": "persImp"
+        }, 
+        {
+            "type": "notifTime", 
+            "_rev": "1-acfa0ab3eeb4411fb5150dd15265fbf9", 
+            "_id": "ad073996-5e0d-436a-b171-6e37758a0c1e", 
+            "notifstart": "2019-10-18T15:31:11.368Z", 
+            "notifend": "2019-10-19T01:31:11.363Z"
+        }, 
+        {
+            "tel": "+33660534094", 
+            "name": "Véronique", 
+            "img": "", 
+            "_rev": "1-1a785fa646ea44b3aa2eecfc60c0ae65", 
+            "_id": "eae933f4-c71f-475a-aa11-e1fa2c604d13", 
+            "type": "persImp"
+        }, 
+        {
+            "tel": "+33695300054", 
+            "name": "", 
+            "_rev": "1-2b9e2e2b019348e2846d54450adf482d", 
+            "rel": {
+                "q1": 9, 
+                "q3": 9, 
+                "q2": 7, 
+                "q5": "Meilleur ami", 
+                "q4": 10
+            }, 
+            "_id": "fba1d95c-3252-4be0-a352-4061e71e9387", 
+            "type": "relation"
+        }, 
+        {
+            "tel": "+33612406427", 
+            "name": "", 
+            "_rev": "1-5d4d563986324320b52f8a4765a006b1", 
+            "rel": {
+                "q1": 10, 
+                "q3": 6, 
+                "q2": 10, 
+                "q5": "Jumelle ", 
+                "q4": 9
+            }, 
+            "_id": "fbe7de0d-2d15-4b5d-afd3-75fea0e318d8", 
+            "type": "relation"
+        }
+    ], 
+    "logs": [
+        {
+            "IDuser": "ccm11", 
+            "action": "AppelProche", 
+            "data": "2019-10-20T08:43:24.973Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "login", 
+            "data": "2019-10-19T14:37:18.555Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "AppelProche", 
+            "data": "2019-10-18T15:31:40.904Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "AppelProche", 
+            "data": "2019-10-18T15:31:41.940Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "AppelProche", 
+            "data": "2019-10-20T08:42:05.447Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "login", 
+            "data": "2019-10-18T19:20:51.849Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "AppelProche", 
+            "data": "2019-10-18T15:31:42.420Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "AppelProche", 
+            "data": "2019-10-18T15:31:41.421Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "AppelProche", 
+            "data": "2019-10-20T08:43:18.969Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "login", 
+            "data": "2019-11-04T19:19:08.876Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "login", 
+            "data": "2019-10-28T15:25:19.805Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "login", 
+            "data": "2019-11-02T13:08:23.599Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "AppelProche", 
+            "data": "2019-10-18T15:31:40.414Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "AppelProche", 
+            "data": "2019-10-18T15:31:36.481Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "AppelProche", 
+            "data": "2019-10-18T15:31:39.766Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "AppelProche", 
+            "data": "2019-10-20T08:44:09.999Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "AppelProche", 
+            "data": "2019-10-20T08:42:18.383Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "login", 
+            "data": "2019-10-20T08:41:44.954Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "AppelProche", 
+            "data": "2019-10-20T08:43:27.930Z"
+        }, 
+        {
+            "IDuser": "ccm11", 
+            "action": "diaporama", 
+            "data": "2019-10-18T19:22:50.101Z"
+        }
+    ], 
+    "quests": [
+        {
+            "status": "answered", 
+            "img": "assets/img/iconsnew/ques/socio.png", 
+            "_rev": "1-371cd26a79b84f5185455167f2832c16", 
+            "datedue": "2019-10-18T15:24:08.838Z", 
+            "denom": "Socio-démographique", 
+            "freq": "none", 
+            "_id": "6938a2a5-405e-44cc-b48d-968974fd0c27", 
+            "type": "Socio-démographique", 
+            "datefinished": "Fri Oct 18 2019 17:30:20 GMT+0200 (CEST)", 
+            "dataquestionnaire": [
+                {
+                    "code": "age", 
+                    "subtitle": "Quel âge avez-vous ?", 
+                    "title": "", 
+                    "value": "20", 
+                    "answered": "true", 
+                    "answerType": "Input", 
+                    "questionOptions": [], 
+                    "datefinished": "Fri Oct 18 2019 17:25:39 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 100, 
+                        "type": "number", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "orientation_sexuelle", 
+                    "subtitle": "Quelle est votre orientation sexuelle ?", 
+                    "title": "", 
+                    "selItem": "heterosexuel", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "hétérosexuel(le)", 
+                            "checked": "false", 
+                            "value": "heterosexuel"
+                        }, 
+                        {
+                            "text": "homosexuel(le)", 
+                            "checked": "false", 
+                            "value": "homosexuel"
+                        }, 
+                        {
+                            "text": "bi-sexuel(le)", 
+                            "checked": "false", 
+                            "value": "bi-sexuel"
+                        }, 
+                        {
+                            "text": "autre", 
+                            "checked": "false", 
+                            "value": "autre"
+                        }
+                    ], 
+                    "datefinished": "Fri Oct 18 2019 17:25:52 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "categorie_socioprofessionnelle", 
+                    "subtitle": "Quelle est votre catégorie socio-professionnelle ?", 
+                    "title": "", 
+                    "selItem": "étudiants", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "agriculteurs exploitants", 
+                            "checked": "false", 
+                            "value": "agriculteurs"
+                        }, 
+                        {
+                            "text": "artisans, commerçants et chefs d'entreprise", 
+                            "checked": "false", 
+                            "value": "artisans_commercants_chefs_entreprise"
+                        }, 
+                        {
+                            "text": "cadres et professions intellectuelles supérieures", 
+                            "checked": "false", 
+                            "value": "cadres"
+                        }, 
+                        {
+                            "text": "professions intermédiaires", 
+                            "checked": "false", 
+                            "value": "intermediaires"
+                        }, 
+                        {
+                            "text": "employés", 
+                            "checked": "false", 
+                            "value": "employes"
+                        }, 
+                        {
+                            "text": "ouvriers", 
+                            "checked": "false", 
+                            "value": "ouvriers"
+                        }, 
+                        {
+                            "text": "étudiants", 
+                            "checked": "false", 
+                            "value": "étudiants"
+                        }, 
+                        {
+                            "text": "retraités", 
+                            "checked": "false", 
+                            "value": "retraites"
+                        }, 
+                        {
+                            "text": "sans activité professionnelle", 
+                            "checked": "false", 
+                            "value": "sans_activite"
+                        }, 
+                        {
+                            "text": "autres", 
+                            "checked": "false", 
+                            "value": "autres"
+                        }
+                    ], 
+                    "datefinished": "Fri Oct 18 2019 17:26:07 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "revenus", 
+                    "subtitle": "Quel est votre niveau de revenu mensuel ?", 
+                    "title": "", 
+                    "selItem": "inf500euros", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "<500 euros", 
+                            "checked": "false", 
+                            "value": "inf500euros"
+                        }, 
+                        {
+                            "text": " 500-1000 euros", 
+                            "checked": "false", 
+                            "value": " 500-1000euros"
+                        }, 
+                        {
+                            "text": "1000-1500 euros", 
+                            "checked": "false", 
+                            "value": "1000-1500euros"
+                        }, 
+                        {
+                            "text": " 1500-2000 euros", 
+                            "checked": "false", 
+                            "value": " 1500-2000euros"
+                        }, 
+                        {
+                            "text": "2000-2500 euros", 
+                            "checked": "false", 
+                            "value": "2000-2500euros"
+                        }, 
+                        {
+                            "text": ">2500 euros", 
+                            "checked": "false", 
+                            "value": "sup2500euros"
+                        }, 
+                        {
+                            "text": "NSP", 
+                            "checked": "false", 
+                            "value": "NSP"
+                        }
+                    ], 
+                    "datefinished": "Fri Oct 18 2019 17:26:17 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "prestations_sociales", 
+                    "subtitle": "Recevez-vous des prestations sociales ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Fri Oct 18 2019 17:26:53 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "prestations_sociales_precisions", 
+                                "subtitle": "Laquelle/Lesquelles ?", 
+                                "title": "", 
+                                "value": "Apl , bourse (crous)", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "type": "text"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "foyer", 
+                    "subtitle": "Vivez-vous :", 
+                    "title": "", 
+                    "selItem": "seul", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "seul(e)", 
+                            "checked": "false", 
+                            "value": "seul"
+                        }, 
+                        {
+                            "text": "en couple", 
+                            "checked": "false", 
+                            "value": "couple"
+                        }, 
+                        {
+                            "text": "en famille", 
+                            "checked": "false", 
+                            "value": "famille"
+                        }, 
+                        {
+                            "text": "en collocation", 
+                            "checked": "false", 
+                            "value": "collocation"
+                        }, 
+                        {
+                            "text": "autre", 
+                            "checked": "false", 
+                            "value": "autre"
+                        }
+                    ], 
+                    "datefinished": "Fri Oct 18 2019 17:27:01 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "enfants", 
+                    "subtitle": "Avez-vous des enfants ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Fri Oct 18 2019 17:27:03 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "enfants_combien", 
+                                "subtitle": "Combien ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 100, 
+                                    "type": "number", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "enfants_avec_parent", 
+                                "subtitle": "Est-ce que vos enfant(s) vit/vivent avec vous ?", 
+                                "title": "", 
+                                "selItem": "", 
+                                "answered": "false", 
+                                "answerType": "Radio", 
+                                "questionOptions": [
+                                    {
+                                        "text": "tout le temps", 
+                                        "checked": "false", 
+                                        "value": "tout"
+                                    }, 
+                                    {
+                                        "text": "partiellement (garde partagée)", 
+                                        "checked": "false", 
+                                        "value": "part"
+                                    }, 
+                                    {
+                                        "text": "jamais", 
+                                        "checked": "false", 
+                                        "value": "jam"
+                                    }
+                                ], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "beaux_enfants", 
+                    "subtitle": "Avez-vous des beaux-enfants ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Fri Oct 18 2019 17:27:09 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "beaux_enfants_combien", 
+                                "subtitle": "Combien ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 100, 
+                                    "type": "number", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "beaux_enfants_avec_parent", 
+                                "subtitle": "Est-ce que le/les enfant(s) de votre conjoint(e) vit/vivent avec vous ?", 
+                                "title": "", 
+                                "selItem": "", 
+                                "answered": "false", 
+                                "answerType": "Radio", 
+                                "questionOptions": [
+                                    {
+                                        "text": "tout le temps", 
+                                        "checked": "false", 
+                                        "value": "tout"
+                                    }, 
+                                    {
+                                        "text": "partiellement (garde partagée)", 
+                                        "checked": "false", 
+                                        "value": "part"
+                                    }, 
+                                    {
+                                        "text": "jamais", 
+                                        "checked": "false", 
+                                        "value": "jam"
+                                    }
+                                ], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "maladie_psychiatrique_passe", 
+                    "subtitle": "Avez-vous eu par le passé une maladie psychiatrique ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Fri Oct 18 2019 17:27:14 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "maladie_psychiatrique_passe_precisions", 
+                                "subtitle": "Laquelle / Lesquelles ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "type": "text"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "maladie_psychiatrique_famille", 
+                    "subtitle": "Est-ce que des membres de votre famille ont ou ont eu des maladies psychiatriques ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Fri Oct 18 2019 17:28:21 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "maladie_psychiatrique_famille_precisions", 
+                                "subtitle": "Quel(s) membre(s) de votre famille a/ont eu quelle(s) maladie(s) ?", 
+                                "title": "", 
+                                "value": "Grand mere maternelle , mère en depression pendant 3 ans ", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "tentatives_suicide", 
+                    "subtitle": "Avez-vous déjà fait une/des tentative(s) de suicide ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Fri Oct 18 2019 17:28:43 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "tentatives_suicide_precisions", 
+                                "subtitle": "Combien ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 100, 
+                                    "type": "number", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "tentatives_suicide_famille", 
+                    "subtitle": "Est-ce que des membres de votre famille ont fait une/ des tentative(s) de suicide ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Fri Oct 18 2019 17:29:01 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "tentatives_suicide_famille_precisions", 
+                                "subtitle": "Qui ?", 
+                                "title": "", 
+                                "value": "Mon père", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "type": "text"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "agitation_tension_emotionnelle", 
+                    "subtitle": "À partir de quel niveau de tension émotionnelle vous sentez-vous en détresse ?", 
+                    "title": "", 
+                    "required": true, 
+                    "value": 4, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Fri Oct 18 2019 17:30:20 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "", 
+                        "minLabel": "", 
+                        "min": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

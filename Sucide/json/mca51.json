@@ -1,0 +1,2641 @@
+{
+    "items": [
+        {
+            "img": "assets/img/imgsugg/image-21.jpg", 
+            "val": 21, 
+            "_rev": "1-8aa84031b0784d1593bf72e7f289e403", 
+            "suggitem": true, 
+            "_id": "02ace93d-9801-429c-90dd-60eac5f9b112", 
+            "type": "listphotos"
+        }, 
+        {
+            "name": "Aller à une fête", 
+            "val": 15, 
+            "_rev": "1-f828a0261ff24d6a99fceb4e66dac34c", 
+            "suggitem": true, 
+            "_id": "0c9a54b8-4e97-4e7e-bd54-ca70f4d61ec7", 
+            "type": "activ"
+        }, 
+        {
+            "_rev": "1-02711a16317a455b8f1b51fa5bafc130", 
+            "_id": "1a31e9a3-b290-48f8-8c41-589a4c802ac2", 
+            "type": "traitencours", 
+            "name": "Brintilix"
+        }, 
+        {
+            "name": "Aller au cinéma, au théâtre, au musée, à un concert", 
+            "val": 2, 
+            "_rev": "2-ff937a321ecf4bfd870e7679a4a81051", 
+            "suggitem": true, 
+            "_id": "1b581d87-f2d1-41f6-8bcc-6b60703b0f3d", 
+            "type": "activ"
+        }, 
+        {
+            "_rev": "1-ab9eed1f4958433d9d208892d3077159", 
+            "list": false, 
+            "suggitem": true, 
+            "file": {
+                "preload": "metadata", 
+                "src": "http://advanse.lirmm.fr/dontdoit/emma/musicemma/Caribbean-steel.mp3", 
+                "title": "Caribbean steel drum happiness", 
+                "art": "assets/img/music.png", 
+                "artist": ""
+            }, 
+            "_id": "28932433-29ef-41e1-a3a4-b2555c1171d6", 
+            "type": "music"
+        }, 
+        {
+            "name": "Passer un moment avec des amis", 
+            "val": 8, 
+            "_rev": "2-0d8cc2d2f64e43bd990a4dad8d3b7119", 
+            "suggitem": true, 
+            "_id": "31eae970-bdc6-4d65-8248-0f0b97468b62", 
+            "type": "activ"
+        }, 
+        {
+            "_rev": "1-f3467c920e7d4d12bb66b8fd30eae576", 
+            "_id": "34cfcc3a-eaa2-4adc-9e99-cc485e11e86b", 
+            "type": "traitencours", 
+            "name": "Xanax"
+        }, 
+        {
+            "_rev": "1-4501937ad8b648dab4032711b75c841b", 
+            "list": false, 
+            "suggitem": true, 
+            "file": {
+                "preload": "metadata", 
+                "src": "http://advanse.lirmm.fr/dontdoit/emma/musicemma/Run-Away.m4a", 
+                "title": "Run Away", 
+                "art": "assets/img/music.png", 
+                "artist": "Noé Dollé"
+            }, 
+            "_id": "3a0f9c38-131a-4275-9a96-3be848d9263c", 
+            "type": "music"
+        }, 
+        {
+            "_rev": "1-e01a6b322eca4200b170f6cf1b16a8a5", 
+            "list": false, 
+            "suggitem": true, 
+            "file": {
+                "preload": "metadata", 
+                "src": "http://advanse.lirmm.fr/dontdoit/emma/musicemma/Airegin-Mix.wav", 
+                "title": "The Mondays Trio", 
+                "art": "assets/img/music.png", 
+                "artist": "The Mondays Trio - Airegin"
+            }, 
+            "_id": "3c00e760-6446-49a5-b5c5-b15b1ad19ee9", 
+            "type": "music"
+        }, 
+        {
+            "img": "assets/img/imgsugg/image-30.jpg", 
+            "val": 30, 
+            "_rev": "1-3e23a50792674caba7b3c7386042c48d", 
+            "suggitem": true, 
+            "_id": "5337a957-8dbf-48b7-8247-324fb76230c3", 
+            "type": "listphotos"
+        }, 
+        {
+            "img": "assets/img/imgsugg/image-16.jpg", 
+            "val": 16, 
+            "_rev": "1-401fbe9c5aea43f4b3bb250b98864630", 
+            "suggitem": true, 
+            "_id": "61c0d7bc-d489-4611-97bf-d09d852f54d9", 
+            "type": "listphotos"
+        }, 
+        {
+            "_rev": "1-54d192d4287544f1beff74bd5ada2952", 
+            "list": false, 
+            "suggitem": true, 
+            "file": {
+                "preload": "metadata", 
+                "src": "http://advanse.lirmm.fr/dontdoit/emma/musicemma/Ma-Variation.m4a", 
+                "title": "Ma Variation", 
+                "art": "assets/img/music.png", 
+                "artist": "Noé Dollé"
+            }, 
+            "_id": "67d7fb60-8144-4d39-b15d-5836d197f3d7", 
+            "type": "music"
+        }, 
+        {
+            "img": "assets/img/imgsugg/image-17.jpg", 
+            "val": 17, 
+            "_rev": "1-3777923f79a24086ab072b178ac392aa", 
+            "suggitem": true, 
+            "_id": "6ee3a1fc-0e9f-447c-8c0c-d26f9fb0343c", 
+            "type": "listphotos"
+        }, 
+        {
+            "name": "Se promener", 
+            "val": 4, 
+            "_rev": "1-509335f2e952420d8eccbfcdcfee47ce", 
+            "suggitem": true, 
+            "_id": "6ffb4004-cf89-45fd-8888-b0aad7f82b2e", 
+            "type": "activ"
+        }, 
+        {
+            "img": "assets/img/imgsugg/image-11.jpg", 
+            "val": 11, 
+            "_rev": "1-5deb88fc87f34b52a094b620ec1421f8", 
+            "suggitem": true, 
+            "_id": "79191777-b835-4982-8fd2-df04f284d707", 
+            "type": "listphotos"
+        }, 
+        {
+            "_rev": "1-205b6fc3d1c44b6b99fd6923ec0ea23f", 
+            "_id": "80adbb63-309f-4503-9adb-09345b9cf8fb", 
+            "type": "traitencours", 
+            "name": "Valium"
+        }, 
+        {
+            "name": "Faire du sport", 
+            "val": 9, 
+            "_rev": "2-afab8ca2b0af41c78f81118fd0a4c21f", 
+            "suggitem": true, 
+            "_id": "85903116-0c9d-42d3-a8b8-fc87061f2106", 
+            "type": "activ"
+        }, 
+        {
+            "_rev": "1-dcfd76adc530493292059ab55de5e50c", 
+            "_id": "93e3aa8e-0cd7-42df-ae44-8eccce9d8266", 
+            "type": "traitencours", 
+            "name": "Deroxat"
+        }, 
+        {
+            "type": "notifTime", 
+            "_rev": "1-9d1a2d4592f1454fa50098bd029354e5", 
+            "_id": "95e6ba00-478d-42bb-8bd1-fc3173462602", 
+            "notifstart": "2019-08-13T08:21:01.906Z", 
+            "notifend": "2019-08-13T18:21:01.901Z"
+        }, 
+        {
+            "img": "assets/img/imgsugg/image-18.jpg", 
+            "val": 18, 
+            "_rev": "1-aa26c085c5424d10af1924f8f5101531", 
+            "suggitem": true, 
+            "_id": "96fcd789-0308-4b28-a4ff-f6495baaec63", 
+            "type": "listphotos"
+        }, 
+        {
+            "img": "assets/img/imgsugg/image-6.jpg", 
+            "val": 6, 
+            "_rev": "1-cd015c1efa294421a52adfd5807f2178", 
+            "suggitem": true, 
+            "_id": "99c656dc-2ba4-4147-a5aa-ec1bf558dd8a", 
+            "type": "listphotos"
+        }, 
+        {
+            "_rev": "1-72b9fb0611704da0b865bcd6af00e340", 
+            "_id": "a5731423-d835-46fb-8c59-77d399088b91", 
+            "type": "traitencours", 
+            "name": "Tercian"
+        }, 
+        {
+            "name": "Écouter de la musique, la radio", 
+            "val": 5, 
+            "_rev": "1-efae46c20f3a474194774685b0e153bb", 
+            "suggitem": true, 
+            "_id": "b420a362-15e4-4b9d-97d2-f92bcc5d6637", 
+            "type": "activ"
+        }, 
+        {
+            "_rev": "1-38271c73801b4e40ae50cc57067ee286", 
+            "list": false, 
+            "suggitem": true, 
+            "file": {
+                "preload": "metadata", 
+                "src": "http://advanse.lirmm.fr/dontdoit/emma/musicemma/Absence.m4a", 
+                "title": "Absence", 
+                "art": "assets/img/music.png", 
+                "artist": "Noé Dollé"
+            }, 
+            "_id": "c0341d52-71d1-4f7c-b4af-f3710d47459e", 
+            "type": "music"
+        }, 
+        {
+            "name": "Prendre un bain", 
+            "val": 1, 
+            "_rev": "1-8cf217e06fee4bbfbd9114db57d94bd3", 
+            "suggitem": true, 
+            "_id": "c930186a-8cfb-4105-b862-49f3c33bbdd1", 
+            "type": "activ"
+        }, 
+        {
+            "name": "Lire des magazines, livres, journaux", 
+            "val": 7, 
+            "_rev": "1-ac34f98138c84ba3ade32f84bd796185", 
+            "suggitem": true, 
+            "_id": "ddbd1240-b535-41e2-871a-dcd982084c9e", 
+            "type": "activ"
+        }, 
+        {
+            "name": "Faire un cadeau à quelqu'un", 
+            "val": 12, 
+            "_rev": "2-ff9f26d24aad42428fe1441ae343a5a3", 
+            "suggitem": true, 
+            "_id": "f62fe270-2120-4df9-ac7c-31c3126d0296", 
+            "type": "activ"
+        }
+    ], 
+    "logs": [
+        {
+            "IDuser": "mca51", 
+            "action": "login", 
+            "data": "2019-10-12T10:42:35.159Z"
+        }, 
+        {
+            "IDuser": "mca51", 
+            "action": "ForgetMDP", 
+            "data": "2019-08-24T19:59:31.862Z"
+        }, 
+        {
+            "IDuser": "mca51", 
+            "action": "AppelProche", 
+            "data": "2019-08-13T08:21:19.960Z"
+        }, 
+        {
+            "IDuser": "mca51", 
+            "action": "AppelProche", 
+            "data": "2019-08-13T08:21:23.555Z"
+        }, 
+        {
+            "IDuser": "mca51", 
+            "action": "AppelProche", 
+            "data": "2019-09-30T11:14:14.235Z"
+        }, 
+        {
+            "IDuser": "mca51", 
+            "action": "ForgetMDP", 
+            "data": "2019-08-24T19:59:28.363Z"
+        }, 
+        {
+            "IDuser": "mca51", 
+            "action": "ForgetMDP", 
+            "data": "2019-08-24T19:59:38.210Z"
+        }, 
+        {
+            "IDuser": "mca51", 
+            "action": "AppelProche", 
+            "data": "2019-08-13T08:21:21.000Z"
+        }, 
+        {
+            "IDuser": "mca51", 
+            "action": "ForgetMDP", 
+            "data": "2019-08-24T19:59:33.539Z"
+        }, 
+        {
+            "IDuser": "mca51", 
+            "action": "ForgetMDP", 
+            "data": "2019-08-24T19:59:38.454Z"
+        }, 
+        {
+            "IDuser": "mca51", 
+            "action": "ForgetMDP", 
+            "data": "2019-08-24T19:59:38.688Z"
+        }, 
+        {
+            "IDuser": "mca51", 
+            "action": "login", 
+            "data": "2019-10-14T09:15:49.145Z"
+        }, 
+        {
+            "IDuser": "mca51", 
+            "action": "ForgetMDP", 
+            "data": "2019-08-24T19:59:37.468Z"
+        }, 
+        {
+            "IDuser": "mca51", 
+            "action": "login", 
+            "data": "2019-10-10T18:20:38.168Z"
+        }
+    ], 
+    "quests": [
+        {
+            "status": "answered", 
+            "img": "assets/img/iconsnew/ques/month.png", 
+            "_rev": "2-e68c5d553d62434eac6b02a2f9b29638", 
+            "datedue": "2019-10-05T16:36:03.000Z", 
+            "prog": 100, 
+            "notificationId": 40, 
+            "denom": "Mensuel", 
+            "freq": "none", 
+            "_id": "4d71cac5-b3bf-420e-bb6b-f469353e5358", 
+            "type": "Mensuel", 
+            "datefinished": "Thu Oct 10 2019 20:27:37 GMT+0200 (CEST)", 
+            "dataquestionnaire": [
+                {
+                    "code": "section_1", 
+                    "subtitle": "", 
+                    "title": "Ce mois-ci, vous avez trouvé emma :", 
+                    "answered": "true", 
+                    "answerType": "Section", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:25:52 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "question_1", 
+                                "subtitle": "facile à utililiser", 
+                                "title": "", 
+                                "value": 7, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "question_2", 
+                                "subtitle": "contraignante", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "question_3", 
+                                "subtitle": "intrusive", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "question_4", 
+                                "subtitle": "utile", 
+                                "title": "", 
+                                "value": 7, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "question_5", 
+                                "subtitle": "fiable", 
+                                "title": "", 
+                                "value": 8, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "question_6", 
+                                "subtitle": "efficace", 
+                                "title": "", 
+                                "value": 8, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "question_7", 
+                                "subtitle": "agréable à utiliser", 
+                                "title": "", 
+                                "value": 7, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "question_8", 
+                                "subtitle": "satisfaisante", 
+                                "title": "", 
+                                "value": 7, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "question_9", 
+                                "subtitle": "pénible", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "question_10", 
+                                "subtitle": "rapide à compléter", 
+                                "title": "", 
+                                "value": 8, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "if": "any"
+                    }
+                }, 
+                {
+                    "code": "question_11", 
+                    "subtitle": "Est-ce que l'utilisation d'emma vous a permis d'avoir moins d'idées suicidaires ?", 
+                    "title": "", 
+                    "value": 10, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:26:05 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Totalement", 
+                        "minLabel": "Pas du tout", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "question_12", 
+                    "subtitle": "Est-ce que l'utilisation d'emma vous a permis d'éviter de vous faire du mal ?", 
+                    "title": "", 
+                    "value": 0, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:26:14 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Totalement", 
+                        "minLabel": "Pas du tout", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "question_13", 
+                    "subtitle": "", 
+                    "title": "Est-ce que l'utilisation d'emma vous semble risquée ?", 
+                    "value": 0, 
+                    "answered": "ignored", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "min": 0, 
+                        "max": 10, 
+                        "sousquest": [
+                            {
+                                "code": "question_13_text", 
+                                "subtitle": "Pourquoi ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "maxLabel": "Extrêmement", 
+                        "minLabel": "Pas du tout", 
+                        "if": "any"
+                    }
+                }, 
+                {
+                    "code": "emma_aide_mieux", 
+                    "subtitle": "", 
+                    "title": "Est-ce que l'utilisation d'emma vous a aidé(e) à mieux :", 
+                    "answered": "true", 
+                    "answerType": "Section", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:26:51 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "question_14_0", 
+                                "subtitle": "identifier vos émotions", 
+                                "title": "", 
+                                "value": 8, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "min": 0, 
+                                    "max": 10, 
+                                    "sousquest": [
+                                        {
+                                            "code": "question_14_0_text", 
+                                            "subtitle": "Comment ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }
+                                    ], 
+                                    "maxLabel": "Beaucoup", 
+                                    "minLabel": "Pas du tout", 
+                                    "if": "5"
+                                }
+                            }, 
+                            {
+                                "code": "question_14", 
+                                "subtitle": "gérer vos émotions", 
+                                "title": "", 
+                                "value": 4, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "min": 0, 
+                                    "max": 10, 
+                                    "sousquest": [
+                                        {
+                                            "code": "question_14_text", 
+                                            "subtitle": "Comment ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }
+                                    ], 
+                                    "maxLabel": "Beaucoup", 
+                                    "minLabel": "Pas du tout", 
+                                    "if": "5"
+                                }
+                            }, 
+                            {
+                                "code": "question_15", 
+                                "subtitle": "identifier vos ressources", 
+                                "title": "", 
+                                "value": 8, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "min": 0, 
+                                    "max": 10, 
+                                    "sousquest": [
+                                        {
+                                            "code": "question_15_text", 
+                                            "subtitle": "Comment ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }
+                                    ], 
+                                    "maxLabel": "Beaucoup", 
+                                    "minLabel": "Pas du tout", 
+                                    "if": "5"
+                                }
+                            }, 
+                            {
+                                "code": "question_16", 
+                                "subtitle": "développer des stratégies pour gérer vos problèmes", 
+                                "title": "", 
+                                "value": 4, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "min": 0, 
+                                    "max": 10, 
+                                    "sousquest": [
+                                        {
+                                            "code": "question_16_text", 
+                                            "subtitle": "Comment ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }
+                                    ], 
+                                    "maxLabel": "Beaucoup", 
+                                    "minLabel": "Pas du tout", 
+                                    "if": "5"
+                                }
+                            }, 
+                            {
+                                "code": "question_17", 
+                                "subtitle": "faire des activités qui vous aident à réduire votre tension émotionnelle", 
+                                "title": "", 
+                                "value": 8, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "min": 0, 
+                                    "max": 10, 
+                                    "sousquest": [
+                                        {
+                                            "code": "question_17_text", 
+                                            "subtitle": "Comment ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }
+                                    ], 
+                                    "maxLabel": "Beaucoup", 
+                                    "minLabel": "Pas du tout", 
+                                    "if": "5"
+                                }
+                            }, 
+                            {
+                                "code": "question_18_0", 
+                                "subtitle": "reconnaître vos besoins", 
+                                "title": "", 
+                                "value": 8, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "min": 0, 
+                                    "max": 10, 
+                                    "sousquest": [
+                                        {
+                                            "code": "question_18_0_text", 
+                                            "subtitle": "Comment ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }
+                                    ], 
+                                    "maxLabel": "Beaucoup", 
+                                    "minLabel": "Pas du tout", 
+                                    "if": "5"
+                                }
+                            }, 
+                            {
+                                "code": "question_18", 
+                                "subtitle": "demander de l'aide", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "min": 0, 
+                                    "max": 10, 
+                                    "sousquest": [
+                                        {
+                                            "code": "question_18_text", 
+                                            "subtitle": "Comment ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }
+                                    ], 
+                                    "maxLabel": "Beaucoup", 
+                                    "minLabel": "Pas du tout", 
+                                    "if": "5"
+                                }
+                            }
+                        ], 
+                        "if": "any"
+                    }
+                }, 
+                {
+                    "code": "section_3", 
+                    "subtitle": "", 
+                    "title": "Est-ce que l'utilisation d'emma a modifié vos rapports avec :", 
+                    "answered": "true", 
+                    "answerType": "Section", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:27:23 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "question_19", 
+                                "subtitle": "les professionnels de santé", 
+                                "title": "", 
+                                "value": 8, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "min": 0, 
+                                    "max": 10, 
+                                    "sousquest": [
+                                        {
+                                            "code": "question_19_text", 
+                                            "subtitle": "Comment ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }
+                                    ], 
+                                    "maxLabel": "Beaucoup", 
+                                    "minLabel": "Pas du tout", 
+                                    "if": "5"
+                                }
+                            }, 
+                            {
+                                "code": "question_21_1", 
+                                "subtitle": "vos personnes importantes", 
+                                "title": "", 
+                                "value": 8, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "min": 0, 
+                                    "max": 10, 
+                                    "sousquest": [
+                                        {
+                                            "code": "question_21_1_text", 
+                                            "subtitle": "Comment ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }
+                                    ], 
+                                    "maxLabel": "Beaucoup", 
+                                    "minLabel": "Pas du tout", 
+                                    "if": "5"
+                                }
+                            }, 
+                            {
+                                "code": "question_21_2", 
+                                "subtitle": "les personnes qui prennent de la place pour vous", 
+                                "title": "", 
+                                "value": 10, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "min": 0, 
+                                    "max": 10, 
+                                    "sousquest": [
+                                        {
+                                            "code": "question_21_2_text", 
+                                            "subtitle": "Comment ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }
+                                    ], 
+                                    "maxLabel": "Beaucoup", 
+                                    "minLabel": "Pas du tout", 
+                                    "if": "5"
+                                }
+                            }, 
+                            {
+                                "code": "question_20", 
+                                "subtitle": "vos amis", 
+                                "title": "", 
+                                "value": 9, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "min": 0, 
+                                    "max": 10, 
+                                    "sousquest": [
+                                        {
+                                            "code": "question_20_text", 
+                                            "subtitle": "Comment ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }
+                                    ], 
+                                    "maxLabel": "Beaucoup", 
+                                    "minLabel": "Pas du tout", 
+                                    "if": "5"
+                                }
+                            }, 
+                            {
+                                "code": "question_21", 
+                                "subtitle": "votre famille", 
+                                "title": "", 
+                                "value": 10, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "min": 0, 
+                                    "max": 10, 
+                                    "sousquest": [
+                                        {
+                                            "code": "question_21_text", 
+                                            "subtitle": "Comment ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }
+                                    ], 
+                                    "maxLabel": "Beaucoup", 
+                                    "minLabel": "Pas du tout", 
+                                    "if": "5"
+                                }
+                            }, 
+                            {
+                                "code": "question_22", 
+                                "subtitle": "autre", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "min": 0, 
+                                    "max": 10, 
+                                    "sousquest": [
+                                        {
+                                            "code": "question_22_text", 
+                                            "subtitle": " Précisez :", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }, 
+                                        {
+                                            "code": "question_222_text", 
+                                            "subtitle": "Comment ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Input", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {
+                                                "type": "text"
+                                            }
+                                        }
+                                    ], 
+                                    "maxLabel": "Beaucoup", 
+                                    "minLabel": "Pas du tout", 
+                                    "if": "5"
+                                }
+                            }
+                        ], 
+                        "if": "any"
+                    }
+                }, 
+                {
+                    "code": "question_23", 
+                    "subtitle": "Est-ce que vous recommanderiez l'utilisation d'emma à des amis présentant les mêmes problèmes que vous ?", 
+                    "title": "", 
+                    "value": 10, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:27:31 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Beaucoup", 
+                        "minLabel": "Pas du tout", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "question_24", 
+                    "subtitle": "Souhaitez-vous faire part d'autres remarques sur votre expérience d'emma ce mois-ci ?", 
+                    "title": "", 
+                    "value": "", 
+                    "answered": "ignored", 
+                    "answerType": "Text", 
+                    "questionOptions": [], 
+                    "datefinished": "nan", 
+                    "options": {}
+                }
+            ]
+        }, 
+        {
+            "status": "answered", 
+            "img": "assets/img/iconsnew/ques/socio.png", 
+            "_rev": "1-cba634c38d91419085d79e7e3ab49b25", 
+            "datedue": "2019-08-13T08:17:51.455Z", 
+            "denom": "Socio-démographique", 
+            "freq": "none", 
+            "_id": "64733259-2722-4f5c-bb3c-26e0dc4756bf", 
+            "type": "Socio-démographique", 
+            "datefinished": "Tue Aug 13 2019 10:20:54 GMT+0200 (CEST)", 
+            "dataquestionnaire": [
+                {
+                    "code": "age", 
+                    "subtitle": "Quel âge avez-vous ?", 
+                    "title": "", 
+                    "value": "34", 
+                    "answered": "true", 
+                    "answerType": "Input", 
+                    "questionOptions": [], 
+                    "datefinished": "Tue Aug 13 2019 10:18:08 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 100, 
+                        "type": "number", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "orientation_sexuelle", 
+                    "subtitle": "Quelle est votre orientation sexuelle ?", 
+                    "title": "", 
+                    "selItem": "homosexuel", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "hétérosexuel(le)", 
+                            "checked": "false", 
+                            "value": "heterosexuel"
+                        }, 
+                        {
+                            "text": "homosexuel(le)", 
+                            "checked": "false", 
+                            "value": "homosexuel"
+                        }, 
+                        {
+                            "text": "bi-sexuel(le)", 
+                            "checked": "false", 
+                            "value": "bi-sexuel"
+                        }, 
+                        {
+                            "text": "autre", 
+                            "checked": "false", 
+                            "value": "autre"
+                        }
+                    ], 
+                    "datefinished": "Tue Aug 13 2019 10:18:18 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "categorie_socioprofessionnelle", 
+                    "subtitle": "Quelle est votre catégorie socio-professionnelle ?", 
+                    "title": "", 
+                    "selItem": "intermediaires", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "agriculteurs exploitants", 
+                            "checked": "false", 
+                            "value": "agriculteurs"
+                        }, 
+                        {
+                            "text": "artisans, commerçants et chefs d'entreprise", 
+                            "checked": "false", 
+                            "value": "artisans_commercants_chefs_entreprise"
+                        }, 
+                        {
+                            "text": "cadres et professions intellectuelles supérieures", 
+                            "checked": "false", 
+                            "value": "cadres"
+                        }, 
+                        {
+                            "text": "professions intermédiaires", 
+                            "checked": "false", 
+                            "value": "intermediaires"
+                        }, 
+                        {
+                            "text": "employés", 
+                            "checked": "false", 
+                            "value": "employes"
+                        }, 
+                        {
+                            "text": "ouvriers", 
+                            "checked": "false", 
+                            "value": "ouvriers"
+                        }, 
+                        {
+                            "text": "étudiants", 
+                            "checked": "false", 
+                            "value": "étudiants"
+                        }, 
+                        {
+                            "text": "retraités", 
+                            "checked": "false", 
+                            "value": "retraites"
+                        }, 
+                        {
+                            "text": "sans activité professionnelle", 
+                            "checked": "false", 
+                            "value": "sans_activite"
+                        }, 
+                        {
+                            "text": "autres", 
+                            "checked": "false", 
+                            "value": "autres"
+                        }
+                    ], 
+                    "datefinished": "Tue Aug 13 2019 10:18:43 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "revenus", 
+                    "subtitle": "Quel est votre niveau de revenu mensuel ?", 
+                    "title": "", 
+                    "selItem": " 1500-2000euros", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "<500 euros", 
+                            "checked": "false", 
+                            "value": "inf500euros"
+                        }, 
+                        {
+                            "text": " 500-1000 euros", 
+                            "checked": "false", 
+                            "value": " 500-1000euros"
+                        }, 
+                        {
+                            "text": "1000-1500 euros", 
+                            "checked": "false", 
+                            "value": "1000-1500euros"
+                        }, 
+                        {
+                            "text": " 1500-2000 euros", 
+                            "checked": "false", 
+                            "value": " 1500-2000euros"
+                        }, 
+                        {
+                            "text": "2000-2500 euros", 
+                            "checked": "false", 
+                            "value": "2000-2500euros"
+                        }, 
+                        {
+                            "text": ">2500 euros", 
+                            "checked": "false", 
+                            "value": "sup2500euros"
+                        }, 
+                        {
+                            "text": "NSP", 
+                            "checked": "false", 
+                            "value": "NSP"
+                        }
+                    ], 
+                    "datefinished": "Tue Aug 13 2019 10:18:54 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "prestations_sociales", 
+                    "subtitle": "Recevez-vous des prestations sociales ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Tue Aug 13 2019 10:19:15 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "prestations_sociales_precisions", 
+                                "subtitle": "Laquelle/Lesquelles ?", 
+                                "title": "", 
+                                "value": "Mere isolee", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "type": "text"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "foyer", 
+                    "subtitle": "Vivez-vous :", 
+                    "title": "", 
+                    "selItem": "seul", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "seul(e)", 
+                            "checked": "false", 
+                            "value": "seul"
+                        }, 
+                        {
+                            "text": "en couple", 
+                            "checked": "false", 
+                            "value": "couple"
+                        }, 
+                        {
+                            "text": "en famille", 
+                            "checked": "false", 
+                            "value": "famille"
+                        }, 
+                        {
+                            "text": "en collocation", 
+                            "checked": "false", 
+                            "value": "collocation"
+                        }, 
+                        {
+                            "text": "autre", 
+                            "checked": "false", 
+                            "value": "autre"
+                        }
+                    ], 
+                    "datefinished": "Tue Aug 13 2019 10:19:29 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "enfants", 
+                    "subtitle": "Avez-vous des enfants ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Tue Aug 13 2019 10:19:45 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "enfants_combien", 
+                                "subtitle": "Combien ?", 
+                                "title": "", 
+                                "value": "1", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 100, 
+                                    "type": "number", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "enfants_avec_parent", 
+                                "subtitle": "Est-ce que vos enfant(s) vit/vivent avec vous ?", 
+                                "title": "", 
+                                "selItem": "part", 
+                                "answered": "false", 
+                                "answerType": "Radio", 
+                                "questionOptions": [
+                                    {
+                                        "text": "tout le temps", 
+                                        "checked": "false", 
+                                        "value": "tout"
+                                    }, 
+                                    {
+                                        "text": "partiellement (garde partagée)", 
+                                        "checked": "false", 
+                                        "value": "part"
+                                    }, 
+                                    {
+                                        "text": "jamais", 
+                                        "checked": "false", 
+                                        "value": "jam"
+                                    }
+                                ], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "beaux_enfants", 
+                    "subtitle": "Avez-vous des beaux-enfants ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Tue Aug 13 2019 10:19:49 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "beaux_enfants_combien", 
+                                "subtitle": "Combien ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 100, 
+                                    "type": "number", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "beaux_enfants_avec_parent", 
+                                "subtitle": "Est-ce que le/les enfant(s) de votre conjoint(e) vit/vivent avec vous ?", 
+                                "title": "", 
+                                "selItem": "", 
+                                "answered": "false", 
+                                "answerType": "Radio", 
+                                "questionOptions": [
+                                    {
+                                        "text": "tout le temps", 
+                                        "checked": "false", 
+                                        "value": "tout"
+                                    }, 
+                                    {
+                                        "text": "partiellement (garde partagée)", 
+                                        "checked": "false", 
+                                        "value": "part"
+                                    }, 
+                                    {
+                                        "text": "jamais", 
+                                        "checked": "false", 
+                                        "value": "jam"
+                                    }
+                                ], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "maladie_psychiatrique_passe", 
+                    "subtitle": "Avez-vous eu par le passé une maladie psychiatrique ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Tue Aug 13 2019 10:19:56 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "maladie_psychiatrique_passe_precisions", 
+                                "subtitle": "Laquelle / Lesquelles ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "type": "text"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "maladie_psychiatrique_famille", 
+                    "subtitle": "Est-ce que des membres de votre famille ont ou ont eu des maladies psychiatriques ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Tue Aug 13 2019 10:20:20 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "maladie_psychiatrique_famille_precisions", 
+                                "subtitle": "Quel(s) membre(s) de votre famille a/ont eu quelle(s) maladie(s) ?", 
+                                "title": "", 
+                                "value": "Grang mere", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "tentatives_suicide", 
+                    "subtitle": "Avez-vous déjà fait une/des tentative(s) de suicide ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Tue Aug 13 2019 10:20:34 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "tentatives_suicide_precisions", 
+                                "subtitle": "Combien ?", 
+                                "title": "", 
+                                "value": "2", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 100, 
+                                    "type": "number", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "tentatives_suicide_famille", 
+                    "subtitle": "Est-ce que des membres de votre famille ont fait une/ des tentative(s) de suicide ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Tue Aug 13 2019 10:20:44 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "tentatives_suicide_famille_precisions", 
+                                "subtitle": "Qui ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "type": "text"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "agitation_tension_emotionnelle", 
+                    "subtitle": "À partir de quel niveau de tension émotionnelle vous sentez-vous en détresse ?", 
+                    "title": "", 
+                    "required": true, 
+                    "value": 6, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Tue Aug 13 2019 10:20:54 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "", 
+                        "minLabel": "", 
+                        "min": 0
+                    }
+                }
+            ]
+        }, 
+        {
+            "status": "answered", 
+            "img": "assets/img/iconsnew/ques/hebdo.png", 
+            "_rev": "2-da7e31e9556c4c558c799385aa002b8d", 
+            "datedue": "2019-10-05T16:36:00.000Z", 
+            "prog": 100, 
+            "notificationId": 39, 
+            "denom": "Hebdomadaire", 
+            "freq": "none", 
+            "_id": "a68e02c0-f7ce-43af-aa18-9e49882c4a44", 
+            "type": "Hebdomadaire", 
+            "datefinished": "Thu Oct 10 2019 20:25:14 GMT+0200 (CEST)", 
+            "dataquestionnaire": [
+                {
+                    "code": "q1_douleur_psy", 
+                    "subtitle": "Quel est votre niveau de douleur psychologique <strong>maintenant</strong> ?", 
+                    "title": "", 
+                    "required": true, 
+                    "value": 3, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:20:55 GMT+0200 (CEST)", 
+                    "options": {
+                        "min": 0, 
+                        "max": 10, 
+                        "sousquest": [
+                            {
+                                "code": "q2_intens_idees_suicid", 
+                                "subtitle": "Quelle est l'intensité de vos idées de suicide <strong>maintenant</strong> ?", 
+                                "title": "", 
+                                "required": true, 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "q3_intensite_tuer", 
+                                "subtitle": "Quelle est l'intensité de votre intention de vous tuer ?", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "maxLabel": "Extrême", 
+                        "minLabel": "Nul", 
+                        "if": "5"
+                    }
+                }, 
+                {
+                    "code": "douleur_morale_moyen", 
+                    "subtitle": "Quel a été votre niveau de douleur psychologique <strong>moyen</strong> cette semaine ?", 
+                    "title": "", 
+                    "value": 3, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:21:01 GMT+0200 (CEST)", 
+                    "options": {
+                        "min": 0, 
+                        "max": 10, 
+                        "sousquest": [
+                            {
+                                "code": "idees_suicidaires_moyen", 
+                                "subtitle": "Quel a été votre niveau de douleur psychologique <strong>moyen</strong> cette semaine ?", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "", 
+                                    "minLabel": "", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "intens_moy_tuer", 
+                                "subtitle": "Quelle a été l'intensité de votre intention de vous tuer cette semaine ?", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "Extrême", 
+                                    "minLabel": "Nul", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "maxLabel": "Extrême", 
+                        "minLabel": "Nul", 
+                        "if": "5"
+                    }
+                }, 
+                {
+                    "code": "douleurs_max", 
+                    "subtitle": "Quel a été votre niveau de douleur psychologique <strong>maximum</strong> cette semaine ?", 
+                    "title": "", 
+                    "value": 3, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:21:07 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "", 
+                        "minLabel": "", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "q8_agitation_tension_hebdo", 
+                    "subtitle": "Quel est votre niveau d'agitation ou de tension émotionnelle <strong>maintenant</strong> ?", 
+                    "title": "", 
+                    "required": true, 
+                    "value": 5, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:21:13 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Extrême", 
+                        "minLabel": "Nul", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "agitation_tension_emotionnelle_maximum", 
+                    "subtitle": "Quel a été votre niveau d'agitation ou de tension émotionnelle <strong>maximum</strong> cette semaine ?", 
+                    "title": "", 
+                    "value": 5, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:21:19 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Extrême", 
+                        "minLabel": "Nul", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "bonne_semaine", 
+                    "subtitle": "Avez-vous passé une bonne semaine ?", 
+                    "title": "", 
+                    "value": 6, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:21:27 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Très bonne", 
+                        "minLabel": "Très mauvaise", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "hospitalisation", 
+                    "subtitle": "Avez-vous été hospitalisé(e) ?", 
+                    "title": "", 
+                    "answered": "ignored", 
+                    "answerType": "Checkbox", 
+                    "questionOptions": [
+                        {
+                            "text": "pour des problèmes psychiatriques", 
+                            "checked": "false", 
+                            "value": "psychiatrique"
+                        }, 
+                        {
+                            "text": "pour des problèmes physiques", 
+                            "checked": "false", 
+                            "value": "physique"
+                        }
+                    ], 
+                    "datefinished": "nan", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "hospitalisation_pourquoi", 
+                                "subtitle": "Pourquoi ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "check"
+                    }
+                }, 
+                {
+                    "code": "urgences_psychiatriques", 
+                    "subtitle": "Êtes-vous passé(e) aux urgences psychiatriques ?", 
+                    "title": "", 
+                    "answered": "ignored", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "urgences_psychiatriques_pourquoi", 
+                                "subtitle": "Pourquoi ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "evenement_negatif", 
+                    "subtitle": "Avez-vous vécu un événement particulièrement négatif qui vous a contrarié(e) ou peiné(e) cette semaine ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Thu Oct 10 2019 20:22:54 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "evenement_negatif_details", 
+                                "subtitle": "Décrivez-le:", 
+                                "title": "", 
+                                "value": "Ma fille qui m’a telephoné en pleurant, elle voulait venir a la maison alors que ce n’est pas sa semaine avec moi.", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "comportements_suicidaires", 
+                    "subtitle": "Avez-vous eu des comportements suicidaires cette semaine ?", 
+                    "title": "", 
+                    "answered": "ignored", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "comportements_suicidaires_details", 
+                                "subtitle": "Pouvez-vous les décrire ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }, 
+                            {
+                                "code": "comportements_suicidaires_facteurs_declenchants", 
+                                "subtitle": "Avez-vous identifié des facteurs déclenchants ?", 
+                                "title": "", 
+                                "answered": "false", 
+                                "answerType": "YesNo", 
+                                "questionOptions": [], 
+                                "checked": false, 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "sousquest": [
+                                        {
+                                            "code": "comportements_suicidaires_facteurs_declenchants_details", 
+                                            "subtitle": "Pouvez-vous les décrire ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }
+                                    ], 
+                                    "if": "true"
+                                }
+                            }, 
+                            {
+                                "code": "comportements_suicidaires_aide", 
+                                "subtitle": "Avez vous identifié ce qui vous a aidé à les surmonter ?", 
+                                "title": "", 
+                                "answered": "false", 
+                                "answerType": "YesNo", 
+                                "questionOptions": [], 
+                                "checked": false, 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "sousquest": [
+                                        {
+                                            "code": "comportements_suicidaires_aide_details", 
+                                            "subtitle": "Pouvez-vous les décrire ?", 
+                                            "title": "", 
+                                            "value": "", 
+                                            "answered": "false", 
+                                            "answerType": "Text", 
+                                            "questionOptions": [], 
+                                            "datefinished": "nan", 
+                                            "options": {}
+                                        }
+                                    ], 
+                                    "if": "true"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "bien_etre", 
+                    "subtitle": "Quel a été votre niveau de bien-être cette semaine ?", 
+                    "title": "", 
+                    "value": 5, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:23:02 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Extrême", 
+                        "minLabel": "Nul", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "heures_personnes_importantes", 
+                    "subtitle": "Combien de temps (en heures) avez-vous passé avec les personnes importantes pour vous sur la semaine écoulée ?", 
+                    "title": "", 
+                    "value": "5", 
+                    "answered": "true", 
+                    "answerType": "Input", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:23:16 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 100, 
+                        "type": "number", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "satisfaction_relations_familiales_sans_contact", 
+                    "subtitle": "J'ai des contacts avec ma famille actuellement", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Thu Oct 10 2019 20:23:25 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "satisfaction_relations_familiales", 
+                                "subtitle": "Cette semaine, êtes-vous satisfait(e) de vos relations familiales ?", 
+                                "title": "", 
+                                "value": 7, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "Totalement", 
+                                    "minLabel": "Pas du tout", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "satisfaction_relations_sans_couple", 
+                    "subtitle": "Je suis en couple actuellement", 
+                    "title": "", 
+                    "answered": "ignored", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "satisfaction_relations_couple", 
+                                "subtitle": "Cette semaine, êtes-vous satisfait(e) de vos relations de couple ?", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "Totalement", 
+                                    "minLabel": "Pas du tout", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "satisfaction_relations_amicales_sans_contact", 
+                    "subtitle": "J'ai des contacts avec mes amis actuellement", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Thu Oct 10 2019 20:23:37 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "satisfaction_relations_amicales", 
+                                "subtitle": "Cette semaine, êtes-vous satisfait(e) de vos relations amicales ?", 
+                                "title": "", 
+                                "value": 7, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "Totalement", 
+                                    "minLabel": "Pas du tout", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "satisfaction_relations_professionnelles_sans_contact", 
+                    "subtitle": "J'ai des relations professionnelles actuellement", 
+                    "title": "", 
+                    "answered": "ignored", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "satisfaction_relations_professionnelles", 
+                                "subtitle": "Cette semaine, êtes-vous satisfait(e) de vos relations professionnelles ?", 
+                                "title": "", 
+                                "value": 0, 
+                                "answered": "false", 
+                                "answerType": "Range", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 10, 
+                                    "maxLabel": "Totalement", 
+                                    "minLabel": "Pas du tout", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "conflits", 
+                    "subtitle": "Avez-vous vécu des conflits relationnels cette semaine ?", 
+                    "title": "", 
+                    "answered": "ignored", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "conflits_contact", 
+                                "subtitle": "Sélectionnez la personne impliquée si elle figure parmi les personnes importantes pour vous", 
+                                "title": "", 
+                                "value": "contact", 
+                                "answered": "false", 
+                                "answerType": "Contact", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }, 
+                            {
+                                "code": "conflits_reaction", 
+                                "subtitle": "Comment avez-vous réagi ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }, 
+                            {
+                                "code": "conflits_type", 
+                                "subtitle": "Ou indiquez si ce(s) conflit(s) étai(en)t", 
+                                "title": "", 
+                                "answered": "false", 
+                                "answerType": "Checkbox", 
+                                "questionOptions": [
+                                    {
+                                        "text": "familial", 
+                                        "checked": "false", 
+                                        "value": "familiaux"
+                                    }, 
+                                    {
+                                        "text": "amical", 
+                                        "checked": "false", 
+                                        "value": "amicaux"
+                                    }, 
+                                    {
+                                        "text": "professionnel", 
+                                        "checked": "false", 
+                                        "value": "professionnels"
+                                    }, 
+                                    {
+                                        "text": "autre", 
+                                        "checked": "false", 
+                                        "value": "autre"
+                                    }
+                                ], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "qualite_de_vie", 
+                    "subtitle": "Cette semaine, est-ce que votre qualité de vie vous paraît :", 
+                    "title": "", 
+                    "value": 5, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:23:53 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Très bien", 
+                        "minLabel": "Pas bien du tout", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "heures_loisirs", 
+                    "subtitle": "Cette semaine, combien de temps (en heures) avez-vous passé à vos loisirs ?", 
+                    "title": "", 
+                    "value": "3", 
+                    "answered": "true", 
+                    "answerType": "Input", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:24:01 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 168, 
+                        "type": "number", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "plaisir_activites", 
+                    "subtitle": "Avez-vous pris du plaisir dans vos activités cette semaine ?", 
+                    "title": "", 
+                    "value": 6, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:24:05 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "Beaucoup", 
+                        "minLabel": "Pas du tout", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "sens", 
+                    "subtitle": "Qu'est-ce qui a eu du sens pour vous cette semaine ?", 
+                    "title": "", 
+                    "value": "Le sport", 
+                    "answered": "true", 
+                    "answerType": "Text", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:24:16 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "bon_moments", 
+                    "subtitle": "Quels ont étés les bons moments que vous avez passés cette semaine ?", 
+                    "title": "", 
+                    "graph": true, 
+                    "value": "Un après midi avec ma maman", 
+                    "answered": "true", 
+                    "answerType": "Text", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:24:54 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "semaine_prochaine", 
+                    "subtitle": "Quel domaine de votre vie allez-vous particulièrement investir la semaine à venir ?", 
+                    "title": "", 
+                    "value": "Ma fille", 
+                    "answered": "true", 
+                    "answerType": "Text", 
+                    "questionOptions": [], 
+                    "datefinished": "Thu Oct 10 2019 20:25:07 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "modif_pers_imp", 
+                    "subtitle": "Souhaitez-vous apporter des modifications aux données concernant les personnes importantes et/ou qui prennent de la place ?", 
+                    "title": "", 
+                    "answered": "ignored", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "nan", 
+                    "options": {}
+                }
+            ]
+        }, 
+        {
+            "status": "answered", 
+            "img": "assets/img/iconsnew/ques/socio.png", 
+            "_rev": "1-00be04eed3a64bcd8027f77f4d778fdb", 
+            "datedue": "2019-09-30T08:43:35.790Z", 
+            "denom": "Socio-démographique", 
+            "freq": "none", 
+            "_id": "ff5311ff-55bf-40f2-ad2f-711a8f213acd", 
+            "type": "Socio-démographique", 
+            "datefinished": "Mon Sep 30 2019 13:13:50 GMT+0200 (CEST)", 
+            "dataquestionnaire": [
+                {
+                    "code": "age", 
+                    "subtitle": "Quel âge avez-vous ?", 
+                    "title": "", 
+                    "value": "34", 
+                    "answered": "true", 
+                    "answerType": "Input", 
+                    "questionOptions": [], 
+                    "datefinished": "Mon Sep 30 2019 10:43:42 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 100, 
+                        "type": "number", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "orientation_sexuelle", 
+                    "subtitle": "Quelle est votre orientation sexuelle ?", 
+                    "title": "", 
+                    "selItem": "homosexuel", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "hétérosexuel(le)", 
+                            "checked": "false", 
+                            "value": "heterosexuel"
+                        }, 
+                        {
+                            "text": "homosexuel(le)", 
+                            "checked": "false", 
+                            "value": "homosexuel"
+                        }, 
+                        {
+                            "text": "bi-sexuel(le)", 
+                            "checked": "false", 
+                            "value": "bi-sexuel"
+                        }, 
+                        {
+                            "text": "autre", 
+                            "checked": "false", 
+                            "value": "autre"
+                        }
+                    ], 
+                    "datefinished": "Mon Sep 30 2019 13:11:44 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "categorie_socioprofessionnelle", 
+                    "subtitle": "Quelle est votre catégorie socio-professionnelle ?", 
+                    "title": "", 
+                    "selItem": "autres", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "agriculteurs exploitants", 
+                            "checked": "false", 
+                            "value": "agriculteurs"
+                        }, 
+                        {
+                            "text": "artisans, commerçants et chefs d'entreprise", 
+                            "checked": "false", 
+                            "value": "artisans_commercants_chefs_entreprise"
+                        }, 
+                        {
+                            "text": "cadres et professions intellectuelles supérieures", 
+                            "checked": "false", 
+                            "value": "cadres"
+                        }, 
+                        {
+                            "text": "professions intermédiaires", 
+                            "checked": "false", 
+                            "value": "intermediaires"
+                        }, 
+                        {
+                            "text": "employés", 
+                            "checked": "false", 
+                            "value": "employes"
+                        }, 
+                        {
+                            "text": "ouvriers", 
+                            "checked": "false", 
+                            "value": "ouvriers"
+                        }, 
+                        {
+                            "text": "étudiants", 
+                            "checked": "false", 
+                            "value": "étudiants"
+                        }, 
+                        {
+                            "text": "retraités", 
+                            "checked": "false", 
+                            "value": "retraites"
+                        }, 
+                        {
+                            "text": "sans activité professionnelle", 
+                            "checked": "false", 
+                            "value": "sans_activite"
+                        }, 
+                        {
+                            "text": "autres", 
+                            "checked": "false", 
+                            "value": "autres"
+                        }
+                    ], 
+                    "datefinished": "Mon Sep 30 2019 13:11:58 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "revenus", 
+                    "subtitle": "Quel est votre niveau de revenu mensuel ?", 
+                    "title": "", 
+                    "selItem": " 1500-2000euros", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "<500 euros", 
+                            "checked": "false", 
+                            "value": "inf500euros"
+                        }, 
+                        {
+                            "text": " 500-1000 euros", 
+                            "checked": "false", 
+                            "value": " 500-1000euros"
+                        }, 
+                        {
+                            "text": "1000-1500 euros", 
+                            "checked": "false", 
+                            "value": "1000-1500euros"
+                        }, 
+                        {
+                            "text": " 1500-2000 euros", 
+                            "checked": "false", 
+                            "value": " 1500-2000euros"
+                        }, 
+                        {
+                            "text": "2000-2500 euros", 
+                            "checked": "false", 
+                            "value": "2000-2500euros"
+                        }, 
+                        {
+                            "text": ">2500 euros", 
+                            "checked": "false", 
+                            "value": "sup2500euros"
+                        }, 
+                        {
+                            "text": "NSP", 
+                            "checked": "false", 
+                            "value": "NSP"
+                        }
+                    ], 
+                    "datefinished": "Mon Sep 30 2019 13:12:07 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "prestations_sociales", 
+                    "subtitle": "Recevez-vous des prestations sociales ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Mon Sep 30 2019 13:12:35 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "prestations_sociales_precisions", 
+                                "subtitle": "Laquelle/Lesquelles ?", 
+                                "title": "", 
+                                "value": "Allocation logement", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "type": "text"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "foyer", 
+                    "subtitle": "Vivez-vous :", 
+                    "title": "", 
+                    "selItem": "autre", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "seul(e)", 
+                            "checked": "false", 
+                            "value": "seul"
+                        }, 
+                        {
+                            "text": "en couple", 
+                            "checked": "false", 
+                            "value": "couple"
+                        }, 
+                        {
+                            "text": "en famille", 
+                            "checked": "false", 
+                            "value": "famille"
+                        }, 
+                        {
+                            "text": "en collocation", 
+                            "checked": "false", 
+                            "value": "collocation"
+                        }, 
+                        {
+                            "text": "autre", 
+                            "checked": "false", 
+                            "value": "autre"
+                        }
+                    ], 
+                    "datefinished": "Mon Sep 30 2019 13:12:45 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "enfants", 
+                    "subtitle": "Avez-vous des enfants ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Mon Sep 30 2019 13:13:00 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "enfants_combien", 
+                                "subtitle": "Combien ?", 
+                                "title": "", 
+                                "value": "1", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 100, 
+                                    "type": "number", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "enfants_avec_parent", 
+                                "subtitle": "Est-ce que vos enfant(s) vit/vivent avec vous ?", 
+                                "title": "", 
+                                "selItem": "part", 
+                                "answered": "false", 
+                                "answerType": "Radio", 
+                                "questionOptions": [
+                                    {
+                                        "text": "tout le temps", 
+                                        "checked": "false", 
+                                        "value": "tout"
+                                    }, 
+                                    {
+                                        "text": "partiellement (garde partagée)", 
+                                        "checked": "false", 
+                                        "value": "part"
+                                    }, 
+                                    {
+                                        "text": "jamais", 
+                                        "checked": "false", 
+                                        "value": "jam"
+                                    }
+                                ], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "beaux_enfants", 
+                    "subtitle": "Avez-vous des beaux-enfants ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Mon Sep 30 2019 13:13:04 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "beaux_enfants_combien", 
+                                "subtitle": "Combien ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 100, 
+                                    "type": "number", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "beaux_enfants_avec_parent", 
+                                "subtitle": "Est-ce que le/les enfant(s) de votre conjoint(e) vit/vivent avec vous ?", 
+                                "title": "", 
+                                "selItem": "", 
+                                "answered": "false", 
+                                "answerType": "Radio", 
+                                "questionOptions": [
+                                    {
+                                        "text": "tout le temps", 
+                                        "checked": "false", 
+                                        "value": "tout"
+                                    }, 
+                                    {
+                                        "text": "partiellement (garde partagée)", 
+                                        "checked": "false", 
+                                        "value": "part"
+                                    }, 
+                                    {
+                                        "text": "jamais", 
+                                        "checked": "false", 
+                                        "value": "jam"
+                                    }
+                                ], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "maladie_psychiatrique_passe", 
+                    "subtitle": "Avez-vous eu par le passé une maladie psychiatrique ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Mon Sep 30 2019 13:13:17 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "maladie_psychiatrique_passe_precisions", 
+                                "subtitle": "Laquelle / Lesquelles ?", 
+                                "title": "", 
+                                "value": "Depression", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "type": "text"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "maladie_psychiatrique_famille", 
+                    "subtitle": "Est-ce que des membres de votre famille ont ou ont eu des maladies psychiatriques ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Mon Sep 30 2019 13:13:21 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "maladie_psychiatrique_famille_precisions", 
+                                "subtitle": "Quel(s) membre(s) de votre famille a/ont eu quelle(s) maladie(s) ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "tentatives_suicide", 
+                    "subtitle": "Avez-vous déjà fait une/des tentative(s) de suicide ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Mon Sep 30 2019 13:13:36 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "tentatives_suicide_precisions", 
+                                "subtitle": "Combien ?", 
+                                "title": "", 
+                                "value": "2", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 100, 
+                                    "type": "number", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "tentatives_suicide_famille", 
+                    "subtitle": "Est-ce que des membres de votre famille ont fait une/ des tentative(s) de suicide ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Mon Sep 30 2019 13:13:40 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "tentatives_suicide_famille_precisions", 
+                                "subtitle": "Qui ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "type": "text"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "agitation_tension_emotionnelle", 
+                    "subtitle": "À partir de quel niveau de tension émotionnelle vous sentez-vous en détresse ?", 
+                    "title": "", 
+                    "required": true, 
+                    "value": 7, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Mon Sep 30 2019 13:13:50 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "", 
+                        "minLabel": "", 
+                        "min": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

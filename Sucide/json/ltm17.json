@@ -1,0 +1,609 @@
+{
+    "items": [
+        {
+            "tel": "+33661917521", 
+            "name": "", 
+            "_rev": "1-b449887bfb204a11b0a07fa9c9606f48", 
+            "rel": {
+                "q1": 10, 
+                "q3": 10, 
+                "q2": 10, 
+                "q5": "", 
+                "q4": 10
+            }, 
+            "_id": "0907c401-5b30-4bd7-8874-b8915cc0ee71", 
+            "type": "relation"
+        }, 
+        {
+            "name": "Prendre un bain", 
+            "val": 1, 
+            "_rev": "1-76a97c1831b046c49c75f175a687bbb9", 
+            "suggitem": true, 
+            "_id": "0a6a5369-3510-4bca-bd49-e2f31f1cc846", 
+            "type": "activ"
+        }, 
+        {
+            "tel": "06 29 84 34 45", 
+            "name": "Topher ", 
+            "img": "/var/mobile/Containers/Data/Application/039D7F30-D33D-4666-B343-95138140752C/tmp/contact_photo_24", 
+            "_rev": "1-401b2d42bafc41cbbaa6d1941965215e", 
+            "_id": "0cfaf145-10bc-43f6-b210-1b3daca2773b", 
+            "type": "persUrg"
+        }, 
+        {
+            "tel": "+33661917521", 
+            "name": "Bb Am ❤️", 
+            "img": "", 
+            "_rev": "1-0cf400ab1e1d44bc902f71bb891b817f", 
+            "_id": "300665fb-517b-4b74-9ac1-5913422c0e6b", 
+            "type": "persUrg"
+        }, 
+        {
+            "tel": "06 27 03 72 52", 
+            "name": "Cyrillus", 
+            "img": "/var/mobile/Containers/Data/Application/039D7F30-D33D-4666-B343-95138140752C/tmp/contact_photo_23", 
+            "_rev": "1-c6a1c3eecdae4a5396ad3de67559843a", 
+            "_id": "77c9ab68-67b1-440c-922f-cfcd7f5ebf1f", 
+            "type": "persUrg"
+        }, 
+        {
+            "type": "notifTime", 
+            "_rev": "2-e8792f4adf944b83af54495ca4480974", 
+            "_id": "7ad6cd55-25b8-49f4-8c55-b93ec8b0ba54", 
+            "notifstart": "2019-05-15T18:00:00.000Z", 
+            "notifend": "2019-05-16T04:00:00.000Z"
+        }, 
+        {
+            "name": "Passer un moment avec des amis", 
+            "val": 8, 
+            "_rev": "1-f1ba04ab90eb4466873ac4258051807d", 
+            "suggitem": true, 
+            "_id": "9b08aec0-d385-4235-85c8-f1bf7aebe282", 
+            "type": "activ"
+        }, 
+        {
+            "tel": "+33661917521", 
+            "name": "Bb Am ❤️", 
+            "img": "", 
+            "_rev": "1-bcbdd5adbfbd4e6d93afd3c0be260ec5", 
+            "_id": "a18d66c9-cb72-4652-a31c-659fa0715205", 
+            "type": "persPlace"
+        }, 
+        {
+            "tel": "+33672948401", 
+            "name": "Papa", 
+            "img": "", 
+            "_rev": "1-0455adf9103f4a42ac924638178400f1", 
+            "_id": "a1ed2ed5-493f-404b-84ed-29005111e16e", 
+            "type": "persUrg"
+        }, 
+        {
+            "name": "Discuter", 
+            "val": 10, 
+            "_rev": "1-e2973f772b8343b0ae7dbacc72e791e2", 
+            "suggitem": true, 
+            "_id": "a2385d58-e8a8-4d53-a5e6-a536c878f120", 
+            "type": "activ"
+        }, 
+        {
+            "name": "Faire du sport", 
+            "val": 9, 
+            "_rev": "1-eb8f5c00510e43bfa326dff5b7601d17", 
+            "suggitem": true, 
+            "_id": "a6838abb-9620-480b-aa50-3cfd6562135c", 
+            "type": "activ"
+        }, 
+        {
+            "tel": "+33661917521", 
+            "name": "Bb Am ❤️", 
+            "img": "", 
+            "_rev": "1-1ab39636894a4b7bad01b8ed9115942e", 
+            "_id": "dc300a47-c9bc-45d0-99e9-76815ae9e3f7", 
+            "type": "persImp"
+        }, 
+        {
+            "name": "Écouter de la musique, la radio", 
+            "val": 5, 
+            "_rev": "1-41d57ea9d081433d89150ab92a63caba", 
+            "suggitem": true, 
+            "_id": "f6789c08-6065-43e4-bf1d-28e739fcfe29", 
+            "type": "activ"
+        }, 
+        {
+            "name": "Regarder un film/série TV/vidéos", 
+            "val": 3, 
+            "_rev": "1-92f3b70c9f284c8ca0acb7d6b89d3eba", 
+            "suggitem": true, 
+            "_id": "f98563a1-ebe5-43ca-a898-db6e9ad409a8", 
+            "type": "activ"
+        }, 
+        {
+            "tel": "06 26 58 11 41", 
+            "name": "Maman ", 
+            "img": "/var/mobile/Containers/Data/Application/039D7F30-D33D-4666-B343-95138140752C/tmp/contact_photo_26", 
+            "_rev": "1-c8a770c07cea4358805d6dbab78cf4d8", 
+            "_id": "fc511e64-3380-4dba-9945-90f66d6b840a", 
+            "type": "persUrg"
+        }
+    ], 
+    "logs": [], 
+    "quests": [
+        {
+            "status": "answered", 
+            "img": "assets/img/iconsnew/ques/socio.png", 
+            "_rev": "1-7db2b91fc0f449c28ffc7f85358bc71c", 
+            "datedue": "2019-05-15T08:41:43.983Z", 
+            "denom": "Socio-démographique", 
+            "freq": "none", 
+            "_id": "c709a1cf-c13a-4e8f-82e2-751cdfed63bc", 
+            "type": "Socio-démographique", 
+            "datefinished": "Wed May 15 2019 10:43:08 GMT+0200 (CEST)", 
+            "dataquestionnaire": [
+                {
+                    "code": "age", 
+                    "subtitle": "Quel âge avez-vous ?", 
+                    "title": "", 
+                    "value": "18", 
+                    "answered": "true", 
+                    "answerType": "Input", 
+                    "questionOptions": [], 
+                    "datefinished": "Wed May 15 2019 10:41:54 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 100, 
+                        "type": "number", 
+                        "min": 0
+                    }
+                }, 
+                {
+                    "code": "orientation_sexuelle", 
+                    "subtitle": "Quelle est votre orientation sexuelle ?", 
+                    "title": "", 
+                    "selItem": "heterosexuel", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "hétérosexuel(le)", 
+                            "checked": "false", 
+                            "value": "heterosexuel"
+                        }, 
+                        {
+                            "text": "homosexuel(le)", 
+                            "checked": "false", 
+                            "value": "homosexuel"
+                        }, 
+                        {
+                            "text": "bi-sexuel(le)", 
+                            "checked": "false", 
+                            "value": "bi-sexuel"
+                        }, 
+                        {
+                            "text": "autre", 
+                            "checked": "false", 
+                            "value": "autre"
+                        }
+                    ], 
+                    "datefinished": "Wed May 15 2019 10:42:03 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "categorie_socioprofessionnelle", 
+                    "subtitle": "Quelle est votre catégorie socio-professionnelle ?", 
+                    "title": "", 
+                    "selItem": "étudiants", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "agriculteurs exploitants", 
+                            "checked": "false", 
+                            "value": "agriculteurs"
+                        }, 
+                        {
+                            "text": "artisans, commerçants et chefs d'entreprise", 
+                            "checked": "false", 
+                            "value": "artisans_commercants_chefs_entreprise"
+                        }, 
+                        {
+                            "text": "cadres et professions intellectuelles supérieures", 
+                            "checked": "false", 
+                            "value": "cadres"
+                        }, 
+                        {
+                            "text": "professions intermédiaires", 
+                            "checked": "false", 
+                            "value": "intermediaires"
+                        }, 
+                        {
+                            "text": "employés", 
+                            "checked": "false", 
+                            "value": "employes"
+                        }, 
+                        {
+                            "text": "ouvriers", 
+                            "checked": "false", 
+                            "value": "ouvriers"
+                        }, 
+                        {
+                            "text": "étudiants", 
+                            "checked": "false", 
+                            "value": "étudiants"
+                        }, 
+                        {
+                            "text": "retraités", 
+                            "checked": "false", 
+                            "value": "retraites"
+                        }, 
+                        {
+                            "text": "sans activité professionnelle", 
+                            "checked": "false", 
+                            "value": "sans_activite"
+                        }, 
+                        {
+                            "text": "autres", 
+                            "checked": "false", 
+                            "value": "autres"
+                        }
+                    ], 
+                    "datefinished": "Wed May 15 2019 10:42:14 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "revenus", 
+                    "subtitle": "Quel est votre niveau de revenu mensuel ?", 
+                    "title": "", 
+                    "selItem": "NSP", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "<500 euros", 
+                            "checked": "false", 
+                            "value": "inf500euros"
+                        }, 
+                        {
+                            "text": " 500-1000 euros", 
+                            "checked": "false", 
+                            "value": " 500-1000euros"
+                        }, 
+                        {
+                            "text": "1000-1500 euros", 
+                            "checked": "false", 
+                            "value": "1000-1500euros"
+                        }, 
+                        {
+                            "text": " 1500-2000 euros", 
+                            "checked": "false", 
+                            "value": " 1500-2000euros"
+                        }, 
+                        {
+                            "text": "2000-2500 euros", 
+                            "checked": "false", 
+                            "value": "2000-2500euros"
+                        }, 
+                        {
+                            "text": ">2500 euros", 
+                            "checked": "false", 
+                            "value": "sup2500euros"
+                        }, 
+                        {
+                            "text": "NSP", 
+                            "checked": "false", 
+                            "value": "NSP"
+                        }
+                    ], 
+                    "datefinished": "Wed May 15 2019 10:42:25 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "prestations_sociales", 
+                    "subtitle": "Recevez-vous des prestations sociales ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Wed May 15 2019 10:42:28 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "prestations_sociales_precisions", 
+                                "subtitle": "Laquelle/Lesquelles ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "type": "text"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "foyer", 
+                    "subtitle": "Vivez-vous :", 
+                    "title": "", 
+                    "selItem": "famille", 
+                    "answered": "true", 
+                    "answerType": "Radio", 
+                    "questionOptions": [
+                        {
+                            "text": "seul(e)", 
+                            "checked": "false", 
+                            "value": "seul"
+                        }, 
+                        {
+                            "text": "en couple", 
+                            "checked": "false", 
+                            "value": "couple"
+                        }, 
+                        {
+                            "text": "en famille", 
+                            "checked": "false", 
+                            "value": "famille"
+                        }, 
+                        {
+                            "text": "en collocation", 
+                            "checked": "false", 
+                            "value": "collocation"
+                        }, 
+                        {
+                            "text": "autre", 
+                            "checked": "false", 
+                            "value": "autre"
+                        }
+                    ], 
+                    "datefinished": "Wed May 15 2019 10:42:36 GMT+0200 (CEST)", 
+                    "options": {}
+                }, 
+                {
+                    "code": "enfants", 
+                    "subtitle": "Avez-vous des enfants ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Wed May 15 2019 10:42:38 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "enfants_combien", 
+                                "subtitle": "Combien ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 100, 
+                                    "type": "number", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "enfants_avec_parent", 
+                                "subtitle": "Est-ce que vos enfant(s) vit/vivent avec vous ?", 
+                                "title": "", 
+                                "selItem": "", 
+                                "answered": "false", 
+                                "answerType": "Radio", 
+                                "questionOptions": [
+                                    {
+                                        "text": "tout le temps", 
+                                        "checked": "false", 
+                                        "value": "tout"
+                                    }, 
+                                    {
+                                        "text": "partiellement (garde partagée)", 
+                                        "checked": "false", 
+                                        "value": "part"
+                                    }, 
+                                    {
+                                        "text": "jamais", 
+                                        "checked": "false", 
+                                        "value": "jam"
+                                    }
+                                ], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "beaux_enfants", 
+                    "subtitle": "Avez-vous des beaux-enfants ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Wed May 15 2019 10:42:40 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "beaux_enfants_combien", 
+                                "subtitle": "Combien ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 100, 
+                                    "type": "number", 
+                                    "min": 0
+                                }
+                            }, 
+                            {
+                                "code": "beaux_enfants_avec_parent", 
+                                "subtitle": "Est-ce que le/les enfant(s) de votre conjoint(e) vit/vivent avec vous ?", 
+                                "title": "", 
+                                "selItem": "", 
+                                "answered": "false", 
+                                "answerType": "Radio", 
+                                "questionOptions": [
+                                    {
+                                        "text": "tout le temps", 
+                                        "checked": "false", 
+                                        "value": "tout"
+                                    }, 
+                                    {
+                                        "text": "partiellement (garde partagée)", 
+                                        "checked": "false", 
+                                        "value": "part"
+                                    }, 
+                                    {
+                                        "text": "jamais", 
+                                        "checked": "false", 
+                                        "value": "jam"
+                                    }
+                                ], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "maladie_psychiatrique_passe", 
+                    "subtitle": "Avez-vous eu par le passé une maladie psychiatrique ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Wed May 15 2019 10:42:42 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "maladie_psychiatrique_passe_precisions", 
+                                "subtitle": "Laquelle / Lesquelles ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "type": "text"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "maladie_psychiatrique_famille", 
+                    "subtitle": "Est-ce que des membres de votre famille ont ou ont eu des maladies psychiatriques ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Wed May 15 2019 10:42:46 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "maladie_psychiatrique_famille_precisions", 
+                                "subtitle": "Quel(s) membre(s) de votre famille a/ont eu quelle(s) maladie(s) ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Text", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {}
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "tentatives_suicide", 
+                    "subtitle": "Avez-vous déjà fait une/des tentative(s) de suicide ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": true, 
+                    "datefinished": "Wed May 15 2019 10:42:55 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "tentatives_suicide_precisions", 
+                                "subtitle": "Combien ?", 
+                                "title": "", 
+                                "value": "1", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "max": 100, 
+                                    "type": "number", 
+                                    "min": 0
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "tentatives_suicide_famille", 
+                    "subtitle": "Est-ce que des membres de votre famille ont fait une/ des tentative(s) de suicide ?", 
+                    "title": "", 
+                    "answered": "true", 
+                    "answerType": "YesNo", 
+                    "questionOptions": [], 
+                    "checked": false, 
+                    "datefinished": "Wed May 15 2019 10:42:59 GMT+0200 (CEST)", 
+                    "options": {
+                        "sousquest": [
+                            {
+                                "code": "tentatives_suicide_famille_precisions", 
+                                "subtitle": "Qui ?", 
+                                "title": "", 
+                                "value": "", 
+                                "answered": "false", 
+                                "answerType": "Input", 
+                                "questionOptions": [], 
+                                "datefinished": "nan", 
+                                "options": {
+                                    "type": "text"
+                                }
+                            }
+                        ], 
+                        "if": "true"
+                    }
+                }, 
+                {
+                    "code": "agitation_tension_emotionnelle", 
+                    "subtitle": "À partir de quel niveau de tension émotionnelle vous sentez-vous en détresse ?", 
+                    "title": "", 
+                    "required": true, 
+                    "value": 6, 
+                    "answered": "true", 
+                    "answerType": "Range", 
+                    "questionOptions": [], 
+                    "datefinished": "Wed May 15 2019 10:43:08 GMT+0200 (CEST)", 
+                    "options": {
+                        "max": 10, 
+                        "maxLabel": "", 
+                        "minLabel": "", 
+                        "min": 0
+                    }
+                }
+            ]
+        }
+    ]
+}
