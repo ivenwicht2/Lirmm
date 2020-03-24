@@ -1,32 +1,27 @@
 from model import LSTM
 import numpy as np 
-from dataset import data_import
+from dataset import data_import , prepare_sequence
 import torch 
+import torch.nn as nn
 
 def train():
-    data_batches , num_epochs , batch_size ,num_batchs , sequence_len , word_size , vocab = data_import()
-
+    data_batches , num_epochs , batch_size ,num_batchs , embedding_dim,hidden_dim , vocab = data_import()
+    word2idx = np.load("save/word2idx.npy",allow_pickle='TRUE').item()
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-    model = LSTM(len(vocab), word_size, sequence_len, batch_size, 50).to(device)
-    criterion = torch.nn.CrossEntropyLoss()
+    model = LSTM(len(vocab), embedding_dim, hidden_dim).to(device)
     optimizer = torch.optim.SGD(model.parameters(), lr=0.01, momentum=0.5)
-
-    num_epochs = 2
+    loss_function = nn.NLLLoss()
 
     for e in range(num_epochs):
         print(f'\n\nepoch #{e}:\n')
-        model.reset_hidden()
         
-        for i in range(num_batchs):
-            batch = data_batches[i * batch_size: (i+1) * batch_size]
-            x = torch.tensor([b[0] for b in batch], device=device)
-            y = torch.tensor([b[1] for b in batch], device=device)
+        for i,(sentence, tags) in enumerate(data_batches):
+            model.zero_grad()
 
+            x =  prepare_sequence(sentence, word2idx,device)
+            y = prepare_sequence(tags, word2idx,device)
             y_pred = model(x)
-
-            loss = criterion(y_pred, y)
-
-            optimizer.zero_grad()
+            loss = loss_function(y_pred, y)
             loss.backward()
             optimizer.step()
 
@@ -38,3 +33,4 @@ def train():
 if __name__ == "__main__":
     model = train()
     torch.save(model,'save/model2')
+

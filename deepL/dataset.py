@@ -1,14 +1,16 @@
 import numpy as np 
 import pandas as pd 
 import random
+import torch 
 
 def data_import() :
-    df = pd.read_csv("88milSMS_88522.csv",sep=",",encoding = "ISO-8859-1")
     data = ""
-    for index, text in df.iterrows() :
-        data += str(text["SMS_ANON"])
 
-    words = data.split()
+    with open('wikipediaTXT.txt', 'r') as fh:
+        for index,line in enumerate(fh):
+            data += line
+            if index == 90 : break             
+    words = data
 
     vocab = set(words)
     print(f'\nvocab size: {len(vocab)}')
@@ -17,14 +19,15 @@ def data_import() :
     idx2word = {idx:w for w, idx in word2idx.items()}
 
     sequence_len = 30
-    batch_size = 50
-    word_size = 20
+    batch_size = 100
+    embedding_dim = 20
+    hidden_dim = 20
     num_epochs = 2
-
+    
     data_batches = []
     for i in range(len(words) - sequence_len - 1): 
-        data = [word2idx[x] for x in words[i: i + sequence_len]]
-        target = word2idx[words[i + sequence_len]]
+        data = [x for x in words[i: i + sequence_len]]
+        target = words[i + sequence_len]
 
         data_batches.append([data, target])
 
@@ -32,4 +35,12 @@ def data_import() :
     random.shuffle(data_batches)
     print(f'\nnumber of batches: {num_batchs}')
     print("number of epochs : ", num_epochs)
-    return data_batches , num_epochs , batch_size , num_batchs , sequence_len , word_size , vocab
+    np.save("save/word2idx",word2idx)
+    np.save("save/idx2word",idx2word)
+    return data_batches , num_epochs , batch_size , num_batchs , embedding_dim ,hidden_dim, vocab
+
+
+
+def prepare_sequence(seq, to_ix,device):
+    idxs = [to_ix[w] for w in seq]
+    return torch.tensor(idxs, dtype=torch.long,device=device)
