@@ -9,7 +9,7 @@ def data_import() :
     with open('wikipediaTXT.txt', 'r') as fh:
         for index,line in enumerate(fh):
             data += line
-            if index == 90 : break             
+            if index == 50000 : break             
     words = data
 
     vocab = set(words)
@@ -20,8 +20,8 @@ def data_import() :
 
     sequence_len = 30
     batch_size = 100
-    embedding_dim = 20
-    hidden_dim = 20
+    embedding_dim =400
+    hidden_dim = 100
     num_epochs = 2
     
     data_batches = []
