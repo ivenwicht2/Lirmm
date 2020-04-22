@@ -1,50 +1,73 @@
 from model import LSTM
 import numpy as np 
-from dataset import data_import , prepare_sequence
+from dataset import *
 import torch 
 import torch.nn as nn
+from argparse import Namespace
+
+flags = Namespace(
+    seq_size=100,
+    batch_size=64,
+    embedding_size=256,
+    lstm_size=256,
+    gradients_norm=5,
+    checkpoint_path='checkpoint',
+    num_epochs = 200
+)
 
 def train():
-    data_batches , num_epochs , batch_size ,num_batchs , embedding_dim,hidden_dim , vocab = data_import()
-    word2idx = np.load("save/word2idx.npy",allow_pickle='TRUE').item()
-
+    int_to_vocab, vocab_to_int, n_vocab, in_text = get_data_from_file( flags.batch_size, flags.seq_size)
+    x_batch,y_batch = create_batch(in_text,flags.batch_size,flags.seq_size)
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-    model = LSTM(len(vocab), embedding_dim, hidden_dim).to(device)
-    model.train()
+    model = LSTM(n_vocab, flags.seq_size,flags.embedding_size, flags.lstm_size).to(device)
 
-    optimizer = torch.optim.SGD(model.parameters(), lr=0.01, momentum=0.5)
-    loss_function = nn.MSELoss()
+    #optimizer = torch.optim.SGD(model.parameters(), lr=0.1, momentum=0.7)
+    optimizer = torch.optim.Adam(model.parameters(), lr=0.01)
+    loss_function = nn.CrossEntropyLoss()
 
-    for e in range(num_epochs):
-        print(f'\n\nepoch #{e}:\n')
+    for e in range(flags.num_epochs):
+        print(f'epoch #{e}: ',end="")
+        batches = get_batches(x_batch,y_batch,flags.batch_size, flags.seq_size)
+        (state_h_1, state_c_1),(state_h_2, state_c_2) = model.zero_state(flags.batch_size)
+        state_h_1 = state_h_1.to(device)
+        state_c_1 = state_c_1.to(device)
+        state_h_2 = state_h_2.to(device)
+        state_c_2 = state_c_2.to(device)
         
-        for i,(sentence, tags) in enumerate(data_batches):
-            model.zero_grad()
+        for i,(x, y) in enumerate(batches):
+            model.train()
+            optimizer.zero_grad()
+ 
 
-            hidden = (torch.zeros(1,1,hidden_dim).to(device),
-                            torch.zeros(1,1,hidden_dim).to(device))
-            model.hidden_cell1  = hidden
-            model.hidden_cell2 = hidden
+            x = torch.tensor(x , dtype=torch.int64).to(device)
+            #print("x shape {} ".format(np.shape(x)))
+            
+            tmp = []
+            for index,el in enumerate(y) :
+                tmp.append(np.zeros(n_vocab))
+                tmp[index][y[index]] = 1
+            #print(y)
+            y = tmp 
+            y = torch.tensor(y , dtype=torch.int64).to(device)
+            logits, (state_h_1, state_c_1),(state_h_2, state_c_2) = model(x, (state_h_1, state_c_1),(state_h_2, state_c_2))
+            #print("logits shape {} , y shape {}".format(np.shape(logits),np.shape(y)))
+            loss = loss_function(logits, y)
 
-            x = prepare_sequence(sentence, word2idx,device)   
-            #y = prepare_sequence(tags, word2idx,device)
-            idx = [word2idx[w] for w in tags]
-            tmp = [0 for _ in range(len(vocab))]
-            tmp[idx[0]] = 1
-            y = torch.tensor(tmp, dtype=torch.long,device=device)
+            state_h_1 = state_h_1.detach()
+            state_c_1 = state_c_1.detach()
+            state_h_2 = state_h_2.detach()
+            state_c_2 = state_c_2.detach()
 
-            y_pred = model(x)
-            loss = loss_function(y_pred.float(), y.float())
+            loss_value = loss.item()
+
             loss.backward()
+            _ = torch.nn.utils.clip_grad_norm_(model.parameters(), flags.gradients_norm)
             optimizer.step()
-
-            if i % 50 == 0:
-                print(f'\tbatch #{i}:\tloss={loss.item():.10f}')
-
+        print(f'batch #{i}:\tloss={loss.item():.10f}')
     return model 
 
 if __name__ == "__main__":
     model = train()
-    torch.save(model,'save/model2')
+    torch.save(model,'save/model')
 
