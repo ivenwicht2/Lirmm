@@ -48,17 +48,9 @@ def pred(model,sentence):
     state_h_2 = state_h_2.to(device)
     state_c_2 = state_c_2.to(device)
 
-    for w in words:
-        ix = torch.tensor([[vocab_to_int[w]]]).to(device)
-        output, (state_h_1, state_c_1),(state_h_2, state_c_2) = model(ix, (state_h_1, state_c_1),(state_h_2, state_c_2))
-    _, top_ix = torch.topk(output[0], k=top_k)
-    choices = top_ix.tolist()
-    choice = np.random.choice(choices[0])
-
-    words.append(int_to_vocab[choice])
-
+   
     for _ in range(50):
-        ix = torch.tensor([[choice]],dtype=torch.int64).to(device)
+        ix = torch.tensor([[vocab_to_int[w] for w in words]]    ).to(device)
         output, (state_h_1, state_c_1),(state_h_2, state_c_2) = model(ix, (state_h_1, state_c_1),(state_h_2, state_c_2))
 
         _, top_ix = torch.topk(output[0], k=top_k)
@@ -66,4 +58,4 @@ def pred(model,sentence):
         choice = np.random.choice(choices[0])
         words.append(int_to_vocab[choice])
 
-    print(''.join(words))
+        print(''.join(words))
