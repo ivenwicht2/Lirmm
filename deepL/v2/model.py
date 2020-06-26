@@ -33,7 +33,7 @@ class LSTM(nn.Module) :
         x , hidden_cell_1 = self.lstm(x,prev_state_1)
         x = self.dropout_1(x)
         z , hidden_cell_2 = self.lstm2(x,prev_state_2)
-        x = self.dropout_2(x)
+        z = self.dropout_2(x)
         x = x[:,-1,:]
         #print(x)
         #print(np.shape(x))

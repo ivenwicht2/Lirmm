@@ -13,8 +13,8 @@ def get_data_from_file(trainfilename,batch_size, seq_size) :
     #raw_text = raw_text.split()
     raw_text =  [char for char in raw_text] 
     
-    #chars = sorted(list(set(text)))
-    chars = list(set(raw_text))
+    chars = sorted(list(set(raw_text)))
+    #chars = list(set(raw_text))
     #print(chars)
     vocab_to_int = dict((c, i) for i, c in enumerate(chars))
     int_to_vocab = dict((i, c) for i, c in enumerate(chars))

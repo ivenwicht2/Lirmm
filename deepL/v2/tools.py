@@ -11,8 +11,8 @@ def stream(x,target,y):
     print("\nx shape : {} , y shape : {} , target shape : {}".format(np.shape(x),np.shape(y),np.shape(target)))
     
     for bash in range(len(y)) :
-        print("x : " , end="")
-        print(" ".join([int_to_vocab[int(el)] for el in x[bash]]) )
+        print("x : '" , end="")
+        print("".join([int_to_vocab[int(el)] for el in x[bash]]) ,end="'\n")
         print("\ny :" , end="")
         print("",int_to_vocab[ int(np.argmax(y[bash]))] ) 
         print("\ntarget :" , end="")
@@ -50,7 +50,7 @@ def pred(model,sentence):
 
    
     for _ in range(50):
-        ix = torch.tensor([[vocab_to_int[w] for w in words]]    ).to(device)
+        ix = torch.tensor([[vocab_to_int[w] for w in words]]).to(device)
         output, (state_h_1, state_c_1),(state_h_2, state_c_2) = model(ix, (state_h_1, state_c_1),(state_h_2, state_c_2))
 
         _, top_ix = torch.topk(output[0], k=top_k)

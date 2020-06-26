@@ -5,7 +5,7 @@ import torch
 import torch.nn as nn
 from argparse import Namespace
 from tools import accuracy, stream, pred
-import matplotlib.pyplot as plt 
+#import matplotlib.pyplot as plt 
 
 flags = Namespace(
     seq_size=100,
@@ -14,7 +14,7 @@ flags = Namespace(
     embedding_size=256,
     lstm_size=256,
     gradients_norm=5,
-    num_epochs = 20,
+    num_epochs = 91,
     lr = 0.001
 )
 
@@ -56,8 +56,8 @@ def train():
 
             resp = logits.detach().cpu()
 
-            """if e == 90 : 
-                stream(x,y,resp)"""
+            if e == 90 : 
+                stream(x,y,resp)
             acc = accuracy(y,resp)
             epoch_acc.append(acc)
             state_h_1 = state_h_1.detach()
@@ -92,9 +92,9 @@ if __name__ == "__main__":
         return sum(p.numel() for p in model.parameters() if p.requires_grad)
     print("nombre paramètre ",count_parameters(model))
 
-    pred(model , "supposing that Truth is a woman what then  Is there not ground for suspecting")
-    pred(model,"je")
-    fig, axs = plt.subplots(2, 1)
+    pred(model,"""a matter of fact the european feels this tension as
+    a state of distress and twice attempts have been""")
+    """fig, axs = plt.subplots(2, 1)
 
     axs[0].plot(  np.arange(0.0,len(total_acc), 1),total_acc)
     axs[0].set_title('accuracy  trainning du modèle avec {} comme learning rate et {} epochs'.format(lr,len(total_loss)))
@@ -110,4 +110,4 @@ if __name__ == "__main__":
     
     fig.tight_layout(pad=3.0)
 
-    plt.show()
+    plt.show()"""
